@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lead_1792845367996_s4c9acwcd",
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "phone": "+91 98765 12345",
+    "service": "Branding & Logo Design",
+    "message": "We are launching a new resort in Mussoorie and need branding.",
+    "timestamp": "2026-10-24T12:36:07.996Z",
+    "ip": "::1"
+  },
+  {
+    "id": "lead_1792846252221_b7jme6oaz",
+    "name": "Prashant",
+    "email": "prashant731966@gmail.com",
+    "phone": "+91 8789778359",
+    "service": "Branding & Logo Design",
+    "message": "Tell me more about it.",
+    "timestamp": "2026-10-24T12:50:52.221Z",
+    "ip": "::1"
+  },
+  {
+    "id": "lead_1792846526653_f89m7613q",
+    "name": "Rohit Verma",
+    "email": "coherencevisual@gmail.com",
+    "phone": "+91 98111 22233",
+    "service": "Video Production & Editing",
+    "message": "Hello Coherence Visual team, testing inquiry delivery directly to your inbox. Looking to create high-retention reels.",
+    "timestamp": "2026-10-24T12:55:26.653Z",
+    "ip": "::1"
+  },
+  {
+    "id": "lead_1792846682652_41fr12x2f",
+    "name": "Prashant",
+    "email": "prashant731966@gmail.com",
+    "phone": "+91 8789778359",
+    "service": "Branding & Logo Design",
+    "message": "Tell more",
+    "timestamp": "2026-10-24T12:58:02.652Z",
+    "ip": "::1"
+  }
+]

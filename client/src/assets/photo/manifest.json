@@ -1,0 +1,470 @@
+{
+  "images": {
+    "10x12 inches table standee burger.png": {
+      "original": "10x12 inches table standee burger.png",
+      "slug": "10x12-inches-table-standee-burger",
+      "webp": "/src/assets/photo/10x12-inches-table-standee-burger.webp",
+      "thumb": "/src/assets/photo/10x12-inches-table-standee-burger-thumb.webp",
+      "width": 720,
+      "height": 864
+    },
+    "10x12 inches table standee.png": {
+      "original": "10x12 inches table standee.png",
+      "slug": "10x12-inches-table-standee",
+      "webp": "/src/assets/photo/10x12-inches-table-standee.webp",
+      "thumb": "/src/assets/photo/10x12-inches-table-standee-thumb.webp",
+      "width": 720,
+      "height": 864
+    },
+    "avenue real estate (10).png": {
+      "original": "avenue real estate (10).png",
+      "slug": "avenue-real-estate-10",
+      "webp": "/src/assets/photo/avenue-real-estate-10.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-10-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "avenue real estate (13).png": {
+      "original": "avenue real estate (13).png",
+      "slug": "avenue-real-estate-13",
+      "webp": "/src/assets/photo/avenue-real-estate-13.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-13-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "avenue real estate (19).png": {
+      "original": "avenue real estate (19).png",
+      "slug": "avenue-real-estate-19",
+      "webp": "/src/assets/photo/avenue-real-estate-19.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-19-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "avenue real estate (4).png": {
+      "original": "avenue real estate (4).png",
+      "slug": "avenue-real-estate-4",
+      "webp": "/src/assets/photo/avenue-real-estate-4.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-4-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "avenue real estate (7).png": {
+      "original": "avenue real estate (7).png",
+      "slug": "avenue-real-estate-7",
+      "webp": "/src/assets/photo/avenue-real-estate-7.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-7-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "BOLLY PUNJABI NIGHT 15 AUG.png": {
+      "original": "BOLLY PUNJABI NIGHT 15 AUG.png",
+      "slug": "bolly-punjabi-night-15-aug",
+      "webp": "/src/assets/photo/bolly-punjabi-night-15-aug.webp",
+      "thumb": "/src/assets/photo/bolly-punjabi-night-15-aug-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "bolly punjabi8 aug.png": {
+      "original": "bolly punjabi8 aug.png",
+      "slug": "bolly-punjabi8-aug",
+      "webp": "/src/assets/photo/bolly-punjabi8-aug.webp",
+      "thumb": "/src/assets/photo/bolly-punjabi8-aug-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "bollywood night 07 aug.png": {
+      "original": "bollywood night 07 aug.png",
+      "slug": "bollywood-night-07-aug",
+      "webp": "/src/assets/photo/bollywood-night-07-aug.webp",
+      "thumb": "/src/assets/photo/bollywood-night-07-aug-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "COPACABANA post.png": {
+      "original": "COPACABANA post.png",
+      "slug": "copacabana-post",
+      "webp": "/src/assets/photo/copacabana-post.webp",
+      "thumb": "/src/assets/photo/copacabana-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "d milano imfl offer.png": {
+      "original": "d milano imfl offer.png",
+      "slug": "d-milano-imfl-offer",
+      "webp": "/src/assets/photo/d-milano-imfl-offer.webp",
+      "thumb": "/src/assets/photo/d-milano-imfl-offer-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "DJ DRAGGY.png": {
+      "original": "DJ DRAGGY.png",
+      "slug": "dj-draggy",
+      "webp": "/src/assets/photo/dj-draggy.webp",
+      "thumb": "/src/assets/photo/dj-draggy-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "DJ RD BABAS.png": {
+      "original": "DJ RD BABAS.png",
+      "slug": "dj-rd-babas",
+      "webp": "/src/assets/photo/dj-rd-babas.webp",
+      "thumb": "/src/assets/photo/dj-rd-babas-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "FOOD POST.png": {
+      "original": "FOOD POST.png",
+      "slug": "food-post",
+      "webp": "/src/assets/photo/food-post.webp",
+      "thumb": "/src/assets/photo/food-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "friday offer neelansh.png": {
+      "original": "friday offer neelansh.png",
+      "slug": "friday-offer-neelansh",
+      "webp": "/src/assets/photo/friday-offer-neelansh.webp",
+      "thumb": "/src/assets/photo/friday-offer-neelansh-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "gajendra.png": {
+      "original": "gajendra.png",
+      "slug": "gajendra",
+      "webp": "/src/assets/photo/gajendra.webp",
+      "thumb": "/src/assets/photo/gajendra-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "GARVIT LIVE.png": {
+      "original": "GARVIT LIVE.png",
+      "slug": "garvit-live",
+      "webp": "/src/assets/photo/garvit-live.webp",
+      "thumb": "/src/assets/photo/garvit-live-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "GEN OFFER 1.png": {
+      "original": "GEN OFFER 1.png",
+      "slug": "gen-offer-1",
+      "webp": "/src/assets/photo/gen-offer-1.webp",
+      "thumb": "/src/assets/photo/gen-offer-1-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "GEN OFFER 3.png": {
+      "original": "GEN OFFER 3.png",
+      "slug": "gen-offer-3",
+      "webp": "/src/assets/photo/gen-offer-3.webp",
+      "thumb": "/src/assets/photo/gen-offer-3-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "GEN OFFER 4.png": {
+      "original": "GEN OFFER 4.png",
+      "slug": "gen-offer-4",
+      "webp": "/src/assets/photo/gen-offer-4.webp",
+      "thumb": "/src/assets/photo/gen-offer-4-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel journee 4.png": {
+      "original": "hotel journee 4.png",
+      "slug": "hotel-journee-4",
+      "webp": "/src/assets/photo/hotel-journee-4.webp",
+      "thumb": "/src/assets/photo/hotel-journee-4-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel journee location post.png": {
+      "original": "hotel journee location post.png",
+      "slug": "hotel-journee-location-post",
+      "webp": "/src/assets/photo/hotel-journee-location-post.webp",
+      "thumb": "/src/assets/photo/hotel-journee-location-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel journee mussoorie post.png": {
+      "original": "hotel journee mussoorie post.png",
+      "slug": "hotel-journee-mussoorie-post",
+      "webp": "/src/assets/photo/hotel-journee-mussoorie-post.webp",
+      "thumb": "/src/assets/photo/hotel-journee-mussoorie-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel journee png.png": {
+      "original": "hotel journee png.png",
+      "slug": "hotel-journee-png",
+      "webp": "/src/assets/photo/hotel-journee-png.webp",
+      "thumb": "/src/assets/photo/hotel-journee-png-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel nest coming soon.png": {
+      "original": "hotel nest coming soon.png",
+      "slug": "hotel-nest-coming-soon",
+      "webp": "/src/assets/photo/hotel-nest-coming-soon.webp",
+      "thumb": "/src/assets/photo/hotel-nest-coming-soon-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel nest creative ad.png": {
+      "original": "hotel nest creative ad.png",
+      "slug": "hotel-nest-creative-ad",
+      "webp": "/src/assets/photo/hotel-nest-creative-ad.webp",
+      "thumb": "/src/assets/photo/hotel-nest-creative-ad-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "hotel nest MOUNTAIN VIEW TEXT.png": {
+      "original": "hotel nest MOUNTAIN VIEW TEXT.png",
+      "slug": "hotel-nest-mountain-view-text",
+      "webp": "/src/assets/photo/hotel-nest-mountain-view-text.webp",
+      "thumb": "/src/assets/photo/hotel-nest-mountain-view-text-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "house of hogwarts 1.png": {
+      "original": "house of hogwarts 1.png",
+      "slug": "house-of-hogwarts-1",
+      "webp": "/src/assets/photo/house-of-hogwarts-1.webp",
+      "thumb": "/src/assets/photo/house-of-hogwarts-1-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "Inauguration offer d milano post.png": {
+      "original": "Inauguration offer d milano post.png",
+      "slug": "inauguration-offer-d-milano-post",
+      "webp": "/src/assets/photo/inauguration-offer-d-milano-post.webp",
+      "thumb": "/src/assets/photo/inauguration-offer-d-milano-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "INDIANO student offer.png": {
+      "original": "INDIANO student offer.png",
+      "slug": "indiano-student-offer",
+      "webp": "/src/assets/photo/indiano-student-offer.webp",
+      "thumb": "/src/assets/photo/indiano-student-offer-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "insta post 2.png": {
+      "original": "insta post 2.png",
+      "slug": "insta-post-2",
+      "webp": "/src/assets/photo/insta-post-2.webp",
+      "thumb": "/src/assets/photo/insta-post-2-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "KAASH BAND.png": {
+      "original": "KAASH BAND.png",
+      "slug": "kaash-band",
+      "webp": "/src/assets/photo/kaash-band.webp",
+      "thumb": "/src/assets/photo/kaash-band-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "manvender.png": {
+      "original": "manvender.png",
+      "slug": "manvender",
+      "webp": "/src/assets/photo/manvender.webp",
+      "thumb": "/src/assets/photo/manvender-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "musafir band 31 oct.png": {
+      "original": "musafir band 31 oct.png",
+      "slug": "musafir-band-31-oct",
+      "webp": "/src/assets/photo/musafir-band-31-oct.webp",
+      "thumb": "/src/assets/photo/musafir-band-31-oct-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "my BAR Headquater 4.png": {
+      "original": "my BAR Headquater 4.png",
+      "slug": "my-bar-headquater-4",
+      "webp": "/src/assets/photo/my-bar-headquater-4.webp",
+      "thumb": "/src/assets/photo/my-bar-headquater-4-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "my bar KITTY PARTY.png": {
+      "original": "my bar KITTY PARTY.png",
+      "slug": "my-bar-kitty-party",
+      "webp": "/src/assets/photo/my-bar-kitty-party.webp",
+      "thumb": "/src/assets/photo/my-bar-kitty-party-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "my bar LADIES NIGHT 22ND JULY.png": {
+      "original": "my bar LADIES NIGHT 22ND JULY.png",
+      "slug": "my-bar-ladies-night-22nd-july",
+      "webp": "/src/assets/photo/my-bar-ladies-night-22nd-july.webp",
+      "thumb": "/src/assets/photo/my-bar-ladies-night-22nd-july-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "MY BAR WEEKLY OFFER 3.png": {
+      "original": "MY BAR WEEKLY OFFER 3.png",
+      "slug": "my-bar-weekly-offer-3",
+      "webp": "/src/assets/photo/my-bar-weekly-offer-3.webp",
+      "thumb": "/src/assets/photo/my-bar-weekly-offer-3-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "my Headquater draggy j.png": {
+      "original": "my Headquater draggy j.png",
+      "slug": "my-headquater-draggy-j",
+      "webp": "/src/assets/photo/my-headquater-draggy-j.webp",
+      "thumb": "/src/assets/photo/my-headquater-draggy-j-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "my Headquater hogwarts artist.png": {
+      "original": "my Headquater hogwarts artist.png",
+      "slug": "my-headquater-hogwarts-artist",
+      "webp": "/src/assets/photo/my-headquater-hogwarts-artist.webp",
+      "thumb": "/src/assets/photo/my-headquater-hogwarts-artist-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "my Headquater RAWHUL.png": {
+      "original": "my Headquater RAWHUL.png",
+      "slug": "my-headquater-rawhul",
+      "webp": "/src/assets/photo/my-headquater-rawhul.webp",
+      "thumb": "/src/assets/photo/my-headquater-rawhul-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "my Headquater welcom to hogwarts 1.png": {
+      "original": "my Headquater welcom to hogwarts 1.png",
+      "slug": "my-headquater-welcom-to-hogwarts-1",
+      "webp": "/src/assets/photo/my-headquater-welcom-to-hogwarts-1.webp",
+      "thumb": "/src/assets/photo/my-headquater-welcom-to-hogwarts-1-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "RETRO NIGHT 2 JUNE.png": {
+      "original": "RETRO NIGHT 2 JUNE.png",
+      "slug": "retro-night-2-june",
+      "webp": "/src/assets/photo/retro-night-2-june.webp",
+      "thumb": "/src/assets/photo/retro-night-2-june-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "RETRO NIGHT MY BAR 2.png": {
+      "original": "RETRO NIGHT MY BAR 2.png",
+      "slug": "retro-night-my-bar-2",
+      "webp": "/src/assets/photo/retro-night-my-bar-2.webp",
+      "thumb": "/src/assets/photo/retro-night-my-bar-2-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "sufi night babas 1.png": {
+      "original": "sufi night babas 1.png",
+      "slug": "sufi-night-babas-1",
+      "webp": "/src/assets/photo/sufi-night-babas-1.webp",
+      "thumb": "/src/assets/photo/sufi-night-babas-1-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "valentine Post 3.png": {
+      "original": "valentine Post 3.png",
+      "slug": "valentine-post-3",
+      "webp": "/src/assets/photo/valentine-post-3.webp",
+      "thumb": "/src/assets/photo/valentine-post-3-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    }
+  },
+  "assignments": {
+    "hero": {
+      "original": "avenue real estate (13).png",
+      "slug": "avenue-real-estate-13",
+      "webp": "/src/assets/photo/avenue-real-estate-13.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-13-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "servicesBanner": {
+      "original": "hotel journee 4.png",
+      "slug": "hotel-journee-4",
+      "webp": "/src/assets/photo/hotel-journee-4.webp",
+      "thumb": "/src/assets/photo/hotel-journee-4-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "integratedSolutions": {
+      "original": "COPACABANA post.png",
+      "slug": "copacabana-post",
+      "webp": "/src/assets/photo/copacabana-post.webp",
+      "thumb": "/src/assets/photo/copacabana-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "strategySection": {
+      "original": "house of hogwarts 1.png",
+      "slug": "house-of-hogwarts-1",
+      "webp": "/src/assets/photo/house-of-hogwarts-1.webp",
+      "thumb": "/src/assets/photo/house-of-hogwarts-1-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "ctaParallax": {
+      "original": "hotel nest creative ad.png",
+      "slug": "hotel-nest-creative-ad",
+      "webp": "/src/assets/photo/hotel-nest-creative-ad.webp",
+      "thumb": "/src/assets/photo/hotel-nest-creative-ad-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "aboutHero": {
+      "original": "hotel journee location post.png",
+      "slug": "hotel-journee-location-post",
+      "webp": "/src/assets/photo/hotel-journee-location-post.webp",
+      "thumb": "/src/assets/photo/hotel-journee-location-post-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "servicesHero": {
+      "original": "avenue real estate (4).png",
+      "slug": "avenue-real-estate-4",
+      "webp": "/src/assets/photo/avenue-real-estate-4.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-4-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "workHero": {
+      "original": "BOLLY PUNJABI NIGHT 15 AUG.png",
+      "slug": "bolly-punjabi-night-15-aug",
+      "webp": "/src/assets/photo/bolly-punjabi-night-15-aug.webp",
+      "thumb": "/src/assets/photo/bolly-punjabi-night-15-aug-thumb.webp",
+      "width": 1080,
+      "height": 1920
+    },
+    "contactHero": {
+      "original": "hotel nest MOUNTAIN VIEW TEXT.png",
+      "slug": "hotel-nest-mountain-view-text",
+      "webp": "/src/assets/photo/hotel-nest-mountain-view-text.webp",
+      "thumb": "/src/assets/photo/hotel-nest-mountain-view-text-thumb.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "workWithUsHero": {
+      "original": "avenue real estate (10).png",
+      "slug": "avenue-real-estate-10",
+      "webp": "/src/assets/photo/avenue-real-estate-10.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-10-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    },
+    "footerBg": {
+      "original": "avenue real estate (19).png",
+      "slug": "avenue-real-estate-19",
+      "webp": "/src/assets/photo/avenue-real-estate-19.webp",
+      "thumb": "/src/assets/photo/avenue-real-estate-19-thumb.webp",
+      "width": 3375,
+      "height": 4219
+    }
+  }
+}

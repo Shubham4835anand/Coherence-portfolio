@@ -1,0 +1,18 @@
+{
+  "name": "marketing-coherence",
+  "version": "1.0.0",
+  "description": "Coherence Visual Marketing Website - React + Node.js",
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"magenta,cyan\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "client": "npm run dev --prefix client",
+    "server": "npm run dev --prefix server",
+    "build": "npm run build --prefix client",
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "navigation": [
+    { "name": "Home", "path": "/" },
+    { "name": "About Us", "path": "/about-us" },
+    { "name": "Our Services", "path": "/our-services" },
+    { "name": "Our Work", "path": "/our-work" },
+    { "name": "Get In Touch", "path": "/get-in-touch" },
+    { "name": "Work With Us", "path": "/work-with-us" }
+  ],
+  "brand": {
+    "name": "Coherence Visual LLP",
+    "subtitle": "Digital Marketing Agency",
+    "tagline": "Innovating the Digital Landscape with Creativity & Strategy!",
+    "quote": "We passionately create intelligent and immersive digital experiences with fresh and innovative ideas",
+    "email": "coherencevisual@gmail.com",
+    "phone": "+91 8789778359 | 7061301321",
+    "address": "J-67/68, F/F-2, J-BLOCK, LAXMI NAGAR, NEAR MANDIR, EAST DELHI, DELHI-110092",
+    "social": {
+      "twitter": "https://twitter.com/coherencevisual",
+      "facebook": "https://facebook.com/coherencevisual",
+      "instagram": "https://instagram.com/coherencevisual",
+      "linkedin": "https://linkedin.com/company/coherencevisual"
+    }
+  },
+  "pages": {
+    "home": {
+      "seo": {
+        "title": "Coherence Visual | Digital Marketing Agency New Delhi",
+        "description": "Coherence Visual is a premier digital marketing agency elevating brands with fresh creative innovation, strategic thinking, and results-driven digital experiences.",
+        "ogImage": "/src/assets/photo/hotel-journee-4.webp"
+      },
+      "hero": {
+        "badge": "Digital Marketing Agency",
+        "title": "Innovating the Digital Landscape with Creativity & Strategy!",
+        "subtitle": "At Coherence Visual, we are more than just a creative agency—we are storytellers, innovators, and digital strategists committed to elevating brands in today's competitive landscape.",
+        "ctaText": "Explore Our Work",
+        "ctaLink": "/our-work",
+        "secondaryCtaText": "Get In Touch",
+        "secondaryCtaLink": "/get-in-touch",
+        "bgImage": "/src/assets/photo/hotel-journee-4.webp"
+      },
+      "whatWeDo": {
+        "title": "What we do?",
+        "columns": [
+          {
+            "heading": "Digital & Strategy",
+            "subtitle": "Innovating the Digital Landscape",
+            "description": "Our expertise spans across branding, social media, video production, web development, and digital marketing, ensuring that businesses not only establish a presence but also thrive.",
+            "buttonText": "About Us",
+            "buttonLink": "/about-us"
+          },
+          {
+            "heading": "Creative & Performance",
+            "subtitle": "Your Growth is Our Priority!",
+            "description": "With a passion for creativity and a data-driven approach, we craft engaging digital experiences that captivate audiences, build brand loyalty, and drive business growth.",
+            "buttonText": "Our Services",
+            "buttonLink": "/our-services"
+          }
+        ]
+      },
+      "servicesOverview": {
+        "badge": "Capabilities",
+        "title": "Our Core Services",
+        "subtitle": "From concept to execution, comprehensive digital solutions for all your branding and marketing needs.",
+        "items": [
+          {
+            "title": "Logo Design & Branding",
+            "description": "Unique, high-impact brand identities and visual assets engineered to resonate deeply with target audiences.",
+            "image": "/src/assets/photo/avenue-real-estate-10.webp",
+            "link": "/our-services"
+          },
+          {
+            "title": "Website Design",
+            "description": "Modern, high-converting digital interfaces and web experiences tailored to align with business objectives.",
+            "image": "/src/assets/photo/hotel-nest-creative-ad.webp",
+            "link": "/our-services"
+          },
+          {
+            "title": "Video Editing & Production",
+            "description": "High-hook, fast-paced edits and short-form storytelling engineered for retention and algorithmic reach.",
+            "image": "/src/assets/photo/house-of-hogwarts-1.webp",
+            "link": "/our-services"
+          },
+          {
+            "title": "Social Media Design",
+            "description": "Content planning, engaging visual posts, and viral trend strategies designed to position your brand at the forefront.",
+            "image": "/src/assets/photo/copacabana-post.webp",
+            "link": "/our-services"
+          },
+          {
+            "title": "SEO & Digital Marketing",
+            "description": "Sustainable organic authority, campaign formulation, and market-researched performance marketing.",
+            "image": "/src/assets/photo/hotel-journee-mussoorie-post.webp",
+            "link": "/our-services"
+          }
+        ]
+      },
+      "thinkMethodology": {
+        "badge": "Our Approach",
+        "title": "THINK",
+        "subtitle": "Our approach combines user, business and stakeholder requirements through different creative production stages to create indelible digital experiences, driving every project to measurable success.",
+        "steps": [
+          { "number": "01", "name": "STRATEGY", "desc": "Market research, trend analysis & business goal formulation" },
+          { "number": "02", "name": "CREATIVE", "desc": "Fresh, unique concept ideation and impactful visual direction" },
+          { "number": "03", "name": "INNOVATION", "desc": "Tailored solutions marrying modern technology and storytelling" },
+          { "number": "04", "name": "PRODUCTION", "desc": "Equipped with high-end systems and creative tools for flawless craft" },
+          { "number": "05", "name": "REACH", "desc": "Optimized multi-channel execution and algorithmic amplification" }
+        ],
+        "bgImage": "/src/assets/photo/avenue-real-estate-7.webp"
+      },
+      "integratedSolutions": {
+        "title": "Integrated Digital Solutions",
+        "subtitle": "Insights, Metrics and Analytics - Everything is connected!",
+        "description": "At Coherence Visual, every campaign and design is backed by market research, trends, and data insights to maximize audience engagement. We customize our strategies to align with your business goals, ensuring optimal results.",
+        "image": "/src/assets/photo/copacabana-post.webp"
+      },
+      "strategySection": {
+        "title": "Strategy, Creativity & Results!",
+        "subtitle": "Our approach is backed by strategy, creativity and optimised for results.",
+        "description": "Whether you're a startup looking to make an impact or an established brand seeking a fresh perspective, Coherence Visual is your partner in success. We focus on measurable success, ensuring that every design, campaign, and strategy delivers tangible value.",
+        "image": "/src/assets/photo/house-of-hogwarts-1.webp"
+      },
+      "clientsSection": {
+        "title": "Trusted by Growing Brands",
+        "subtitle": "Delivering transformative creative and digital impact across hospitality, real estate, F&B, and lifestyle.",
+        "logos": [
+          { "name": "Avenue Real Estate", "category": "Real Estate", "image": "/src/assets/photo/avenue-real-estate-4-thumb.webp" },
+          { "name": "Hotel Journee Mussoorie", "category": "Hospitality", "image": "/src/assets/photo/hotel-journee-location-post-thumb.webp" },
+          { "name": "Hotel Nest", "category": "Hospitality", "image": "/src/assets/photo/hotel-nest-coming-soon-thumb.webp" },
+          { "name": "My Bar Headquarters", "category": "Nightlife & Dining", "image": "/src/assets/photo/my-bar-headquater-4-thumb.webp" },
+          { "name": "Copacabana", "category": "Events & Lounge", "image": "/src/assets/photo/copacabana-post-thumb.webp" },
+          { "name": "D Milano", "category": "F&B", "image": "/src/assets/photo/d-milano-imfl-offer-thumb.webp" },
+          { "name": "Indiano", "category": "Dining & Cafe", "image": "/src/assets/photo/indiano-student-offer-thumb.webp" },
+          { "name": "House of Hogwarts", "category": "Experiential", "image": "/src/assets/photo/house-of-hogwarts-1-thumb.webp" },
+          { "name": "Retro Night Lounge", "category": "Entertainment", "image": "/src/assets/photo/retro-night-2-june-thumb.webp" },
+          { "name": "Kaash Live", "category": "Music & Entertainment", "image": "/src/assets/photo/kaash-band-thumb.webp" },
+          { "name": "Garvit Live", "category": "Events", "image": "/src/assets/photo/garvit-live-thumb.webp" },
+          { "name": "Bolly Punjabi Club", "category": "Nightlife", "image": "/src/assets/photo/bolly-punjabi-night-15-aug-thumb.webp" },
+          { "name": "Neelansh Hospitality", "category": "Resorts & Dining", "image": "/src/assets/photo/friday-offer-neelansh-thumb.webp" },
+          { "name": "Musafir Collective", "category": "Live Music", "image": "/src/assets/photo/musafir-band-31-oct-thumb.webp" },
+          { "name": "Sufi Nights", "category": "Curated Experiences", "image": "/src/assets/photo/sufi-night-babas-1-thumb.webp" },
+          { "name": "Valentine Festive", "category": "Campaigns", "image": "/src/assets/photo/valentine-post-3-thumb.webp" }
+        ]
+      },
+      "ctaBanner": {
+        "title": "LET'S MAKE SOMETHING BIG TOGETHER",
+        "subtitle": "We passionately create intelligent and immersive digital experiences with fresh and innovative ideas.",
+        "buttonText": "Start Your Project",
+        "buttonLink": "/get-in-touch",
+        "bgImage": "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+      },
+      "procedureOverview": {
+        "title": "Our Execution Procedure",
+        "subtitle": "Right after clients get on board, we follow a formal process through which we execute & complete projects.",
+        "steps": [
+          { "num": "01", "name": "Brainstorming", "text": "A roadmap & strategy is provided to the client after a brainstorming session between the managing directors, creative head, strategist & content writer. The strategy highlights the methods which will be used to reach the goal that client wants for their business." },
+          { "num": "02", "name": "Content", "text": "The content writer prepares a content calendar for posts that will be created for client's social media. This includes engaging posts, messaging posts, ad posts & brand-building posts which enables us to position the business in audience's minds." },
+          { "num": "03", "name": "Approval", "text": "Thirdly, the content prepared is sent to the client for approval. If the client approves then it is forwarded to the creative team for graphics. Otherwise, the content is revised according to client demands & forwarded to creative team later after approval." },
+          { "num": "04", "name": "Creative Team", "text": "This team consists of graphic designers who are highly skilled in their work. They design & create each post which is first approved by client then sent to execution team for uploading. This team is equipped with high-end systems creative tools to meet their needs." },
+          { "num": "05", "name": "Execution", "text": "The execution team uploads all content after client's approval. They optimize it using relevant hashtags to reach more audiences, and captions are added on posts focused to engage audience as much as possible." }
+        ]
+      },
+      "testimonials": [
+        {
+          "quote": "Coherence Visual transformed our digital footprint with creative clarity and relentless execution. Their team brings strategic thinking that directly impacts footfall and revenue.",
+          "author": "Hospitality Director",
+          "organization": "Hotel Journee Mussoorie"
+        },
+        {
+          "quote": "From high-converting ad visuals to brand positioning, their design execution and video storytelling are unmatched in the creative industry.",
+          "author": "Brand Lead",
+          "organization": "Avenue Real Estate"
+        },
+        {
+          "quote": "Working with Coherence Visual feels like having an in-house powerhouse team. They treat every campaign like their own brand.",
+          "author": "Operations Head",
+          "organization": "My Bar Headquarters"
+        }
+      ],
+      "newsCards": [
+        {
+          "category": "Agency Milestone",
+          "date": "Strategic Expansion",
+          "title": "Coherence Visual expands 360-degree digital production capabilities",
+          "excerpt": "Equipped with high-end systems and creative tools, our multidisciplinary teams now offer end-to-end video production, kinetic typography, and high-conversion ad creative under one unified roof.",
+          "link": "/our-services"
+        },
+        {
+          "category": "Client Growth",
+          "date": "Campaign Spotlight",
+          "title": "Hospitality & real estate portfolios achieve record organic reach",
+          "excerpt": "By combining user, business and stakeholder requirements, Coherence Visual's structured THINK methodology drives measurable ROI across competitive regional markets.",
+          "link": "/our-work"
+        }
+      ]
+    },
+    "about-us": {
+      "seo": {
+        "title": "About Us | Coherence Visual",
+        "description": "Learn about Coherence Visual - our story, creative leadership, core pillars, and our commitment to elevating brands with innovation and strategy.",
+        "ogImage": "/src/assets/photo/hotel-journee-location-post.webp"
+      },
+      "hero": {
+        "badge": "01 About Us",
+        "title": "Innovating the Digital Landscape with Creativity & Strategy!",
+        "lead": "At Coherence Visual, we are more than just a creative agency—we are storytellers, innovators, and digital strategists committed to elevating brands in today's competitive landscape.",
+        "bgImage": "/src/assets/photo/hotel-journee-location-post.webp"
+      },
+      "story": {
+        "paragraph1": "Our expertise spans across branding, social media, video production, web development, and digital marketing, ensuring that businesses not only establish a presence but also thrive.",
+        "paragraph2": "With a passion for creativity and a data-driven approach, we craft engaging digital experiences that captivate audiences, build brand loyalty, and drive business growth. Whether you're a startup looking to make an impact or an established brand seeking a fresh perspective, Coherence Visual is your partner in success.",
+        "quote": "We passionately create intelligent and immersive digital experiences with fresh and innovative ideas"
+      },
+      "pillars": {
+        "badge": "Our Philosophy",
+        "title": "Message From the Creator of Coherence Visual",
+        "items": [
+          {
+            "num": "01",
+            "title": "Commitment",
+            "desc": "We craft engaging social media strategies tailored to your brand's voice. Our services include content planning, social media management, paid advertising, ensuring your brand reaches and engages the right audience."
+          },
+          {
+            "num": "02",
+            "title": "Analytical",
+            "desc": "An agency is all about solving clients' problems at a profit. Keep generating solutions whether the problem is large or small in scale."
+          },
+          {
+            "num": "03",
+            "title": "Consistent",
+            "desc": "Success is not about greatness, it's about consistency. Consistent hard work leads to success. Greatness will come."
+          },
+          {
+            "num": "04",
+            "title": "Trend",
+            "desc": "The purpose of an agency is to create brands that create customers. Adaptability and flexibility have always been central to content creation."
+          }
+        ]
+      },
+      "team": {
+        "badge": "Leadership",
+        "title": "Meet Our Core Team",
+        "members": [
+          {
+            "name": "Sumit Chandra",
+            "role": "SEO & DIGITAL GROWTH STRATEGIST",
+            "credentials": "Senior Strategist | 8+ yrs Exp.",
+            "quote": "Building sustainable organic authority. With over 8 years formulating digital roadmaps, Sumit drives search dominance, brand positioning, & organic acquisition.",
+            "competencies": [
+              "Organic Search Engine Optimization",
+              "Digital Strategy & Campaign Formulation",
+              "Long-Term Brand Building Architecture"
+            ]
+          },
+          {
+            "name": "Prashant Kumar",
+            "role": "CREATIVE HEAD & VISUAL LEAD",
+            "credentials": "BFA Graduate | 4 yrs exp",
+            "quote": "Translating brand vision into stunning visual impact. Prashant leads design execution with fine design training, delivering high-converting UI layouts & distinct visual identities.",
+            "competencies": [
+              "UI/UX, Graphic design & Web Interface Design",
+              "Photoshop, Illustrator, Figma & Canva Mastery",
+              "Visual Brand Direction & Graphic Artistry"
+            ]
+          },
+          {
+            "name": "Ravi Ranjan",
+            "role": "HEAD OF FINANCE & CLIENT RELATION MANAGER",
+            "credentials": "CA Finalist | Commerce Graduate",
+            "quote": "Bridging numbers with narrative. Ravi combines deep financial acumen with strategic copywriting, crafting high-trust, conversion-oriented content for B2B & growth brands.",
+            "competencies": [
+              "B2B & Financial Content Thinking",
+              "Conversion Copywriting & Storytelling",
+              "Social Media Brand Management"
+            ]
+          }
+        ]
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Us?",
+        "subtitle": "Your Growth is Our Priority!",
+        "points": [
+          { "title": "Creative Innovation", "desc": "We believe in fresh, unique, and high-impact designs that resonate with your audience." },
+          { "title": "Strategic Thinking", "desc": "Every campaign and design is backed by market research, trends, and insights to maximize engagement." },
+          { "title": "Tailored Solutions", "desc": "We customize our strategies to align with your business goals, ensuring optimal results." },
+          { "title": "End-to-End Expertise", "desc": "From concept to execution, we provide comprehensive digital solutions for all your branding and marketing needs." },
+          { "title": "Results-Driven Approach", "desc": "We focus on measurable success, ensuring that every design, campaign, and strategy delivers value." }
+        ]
+      }
+    },
+    "our-services": {
+      "seo": {
+        "title": "Our Services | Coherence Visual",
+        "description": "Explore Coherence Visual's digital services: Logo Design & Branding, Website Design, Video Editing, Social Media Management, and SEO.",
+        "ogImage": "/src/assets/photo/avenue-real-estate-4.webp"
+      },
+      "hero": {
+        "badge": "What We Offer",
+        "title": "OUR SERVICES",
+        "subtitle": "Comprehensive digital solutions from concept to execution. We engineer high-impact creative, websites, video production, and organic growth strategies.",
+        "bgImage": "/src/assets/photo/avenue-real-estate-4.webp"
+      },
+      "serviceList": [
+        {
+          "id": "branding",
+          "title": "Logo Design & Branding",
+          "tagline": "Translating brand vision into stunning visual impact",
+          "description": "We craft fresh, unique, and high-impact visual identities. From corporate logomarks to complete brand guidelines and marketing collaterals, our design team ensures your brand commands attention and builds lasting recognition.",
+          "lead": "Prashant Kumar (Creative Head & Visual Lead)",
+          "competencies": ["Visual Brand Direction & Graphic Artistry", "Photoshop, Illustrator, Figma & Canva Mastery", "UI/UX & Web Interface Design"],
+          "deliverables": ["Primary & Secondary Logomarks", "Brand Identity Guidelines", "Typography & Palette Systems", "Marketing Collateral & Standees"],
+          "image": "/src/assets/photo/10x12-inches-table-standee-burger.webp"
+        },
+        {
+          "id": "web-design",
+          "title": "Website Design & Development",
+          "tagline": "High-converting digital experiences tailored to business goals",
+          "description": "Combining user, business, and stakeholder requirements, we architect modern, responsive, and intuitive web solutions. Every interface is crafted to create indelible digital experiences that convert visitors into loyal customers.",
+          "lead": "Multidisciplinary Engineering Team",
+          "competencies": ["Modern Front-end Architecture", "Responsive & Mobile-First UX", "Conversion-Optimized Layouts"],
+          "deliverables": ["Custom Agency & Corporate Websites", "Interactive Product Showcases", "Fast Loading Web Performance", "CMS & Content Integration"],
+          "image": "/src/assets/photo/hotel-journee-4.webp"
+        },
+        {
+          "id": "video-editing",
+          "title": "Video Editing & Production",
+          "tagline": "High-hook, fast-paced edits engineered for engagement",
+          "description": "Our video production department creates algorithmic-ready reels, promotional visuals, and cinematic event coverage. We focus on hook optimization and audience retention to make your content perform across digital channels.",
+          "lead": "Vyom Kumar (Video Production Lead)",
+          "competencies": ["Hook Optimization & Audience Retention Editing", "Kinetic Typography & Dynamic Captions", "Short-Form Ad & Organic Content Strategy"],
+          "deliverables": ["Viral Short-Form Reels & TikToks", "Promotional Event Visuals", "Brand Story Commercials", "Motion Graphics & Kinetic Typography"],
+          "image": "/src/assets/photo/dj-draggy.webp"
+        },
+        {
+          "id": "social-media",
+          "title": "Social Media Design & Content",
+          "tagline": "Engaging social media strategies tailored to your brand's voice",
+          "description": "We prepare structured monthly content calendars including engaging posts, messaging posts, ad creatives, and brand-building visuals. Our team ensures your business is positioned prominently in audiences' minds.",
+          "lead": "Muskan Panday & Ravi Ranjan",
+          "competencies": ["Viral Short-Form Video & Trend Strategy", "Brand Promotional Content & Visual Identity", "Conversion Copywriting & Storytelling"],
+          "deliverables": ["Monthly Content Strategy Calendars", "Ad Campaigns & Promotional Creatives", "Reel Concepts & Culture-First Narratives", "Community Engagement Asset Packs"],
+          "image": "/src/assets/photo/copacabana-post.webp"
+        },
+        {
+          "id": "seo-digital-marketing",
+          "title": "SEO & Digital Growth Strategy",
+          "tagline": "Building sustainable organic authority and market dominance",
+          "description": "Backed by 8+ years of formulated digital roadmaps, our SEO and growth strategy drives search dominance, brand positioning, and qualified organic acquisition. We turn visibility into measurable revenue.",
+          "lead": "Sumit Chandra (SEO & Digital Growth Strategist)",
+          "competencies": ["Organic Search Engine Optimization", "Digital Strategy & Campaign Formulation", "Long-Term Brand Building Architecture"],
+          "deliverables": ["Comprehensive Technical & On-Page SEO", "Keyword Research & Content Architecture", "Competitor & Market Landscape Analysis", "Performance Tracking & Growth Dashboards"],
+          "image": "/src/assets/photo/hotel-journee-location-post.webp"
+        }
+      ],
+      "terms": {
+        "title": "Our Working Engagement Terms",
+        "subtitle": "By engaging with Coherence Visual, you agree to our transparent operating principles:",
+        "items": [
+          { "term": "Services Scope", "detail": "We provide branding, social media marketing, video production, website development, SEO, digital marketing, and graphic design. The scope is agreed upon before commencement." },
+          { "term": "Payments", "detail": "A deposit may be required before work begins. Full payment is due before final delivery." },
+          { "term": "Revisions", "detail": "Limited revisions are included as per the agreement. Additional revisions or major scope changes may be subject to extra charges." },
+          { "term": "Intellectual Property", "detail": "Coherence Visual retains ownership of all concepts until full payment. After payment, final deliverables belong to the client." },
+          { "term": "Client Responsibilities", "detail": "Clients must provide necessary content, materials, and approvals on time to ensure target timelines are met." },
+          { "term": "Confidentiality", "detail": "Both parties agree to keep all shared business information strictly confidential." }
+        ]
+      }
+    },
+    "our-work": {
+      "seo": {
+        "title": "Our Work | Coherence Visual Portfolio",
+        "description": "Explore Coherence Visual's creative portfolio spanning hospitality, nightlife, real estate, event production, and dining campaigns.",
+        "ogImage": "/src/assets/photo/bolly-punjabi-night-15-aug.webp"
+      },
+      "hero": {
+        "badge": "Portfolio & Case Studies",
+        "title": "OUR WORK",
+        "subtitle": "Fresh, unique, and high-impact designs engineered to captivate audiences and drive measurable business growth.",
+        "bgImage": "/src/assets/photo/bolly-punjabi-night-15-aug.webp"
+      },
+      "categories": ["All", "Graphic Designing", "Video editing", "Website Development", "SEO & Digital Content Strategist", "Social Media Marketing"],
+      "projects": [
+        {
+          "id": "gd-avenue",
+          "title": "Avenue Luxury Real Estate Branding",
+          "category": "Graphic Designing",
+          "tagline": "Brand Identity, Typography Systems & Hoardings",
+          "description": "High-impact visual identity, luxury architectural hoardings, brochures, and digital ad creative crafted for premier real estate properties.",
+          "image": "/src/assets/photo/avenue-real-estate-13.webp",
+          "thumb": "/src/assets/photo/avenue-real-estate-13-thumb.webp",
+          "tags": ["Visual Identity", "Print Hoardings", "Graphic Artistry"],
+          "galleryImages": [
+            "/src/assets/photo/avenue-real-estate-13.webp",
+            "/src/assets/photo/avenue-real-estate-10.webp",
+            "/src/assets/photo/avenue-real-estate-4.webp",
+            "/src/assets/photo/avenue-real-estate-7.webp",
+            "/src/assets/photo/avenue-real-estate-19.webp"
+          ]
+        },
+        {
+          "id": "gd-standees",
+          "title": "Table Standee & Restaurant POS Merchandise",
+          "category": "Graphic Designing",
+          "tagline": "10x12 Inches Table Standees & In-Store Graphics",
+          "description": "Custom dining table standees, visual menus, and food photography layouts engineered for on-table conversion and impulse orders.",
+          "image": "/src/assets/photo/10x12-inches-table-standee-burger.webp",
+          "thumb": "/src/assets/photo/10x12-inches-table-standee-burger-thumb.webp",
+          "tags": ["POS Design", "Food Layouts", "Print Craft"],
+          "galleryImages": [
+            "/src/assets/photo/10x12-inches-table-standee-burger.webp",
+            "/src/assets/photo/10x12-inches-table-standee.webp",
+            "/src/assets/photo/food-post.webp",
+            "/src/assets/photo/indiano-student-offer.webp"
+          ]
+        },
+        {
+          "id": "gd-dining",
+          "title": "D Milano Luxury Dining Offer Creatives",
+          "category": "Graphic Designing",
+          "tagline": "Inauguration Campaigns & Signature Offer Graphics",
+          "description": "Polished promotional visuals, inauguration announcements, and seasonal discount collateral tailored for high-end hospitality diners.",
+          "image": "/src/assets/photo/inauguration-offer-d-milano-post.webp",
+          "thumb": "/src/assets/photo/inauguration-offer-d-milano-post-thumb.webp",
+          "tags": ["Dining Posters", "Offer Creative", "Typography"],
+          "galleryImages": [
+            "/src/assets/photo/inauguration-offer-d-milano-post.webp",
+            "/src/assets/photo/d-milano-imfl-offer.webp",
+            "/src/assets/photo/friday-offer-neelansh.webp",
+            "/src/assets/photo/valentine-post-3.webp"
+          ]
+        },
+        {
+          "id": "gd-themed",
+          "title": "House of Hogwarts Experiential Visuals",
+          "category": "Graphic Designing",
+          "tagline": "Pop-Culture Themed Graphics & Environmental Creative",
+          "description": "Immersive graphic identity, themed flyers, stage backdrops, and character tribute artwork created for curated experiential nightlife.",
+          "image": "/src/assets/photo/house-of-hogwarts-1.webp",
+          "thumb": "/src/assets/photo/house-of-hogwarts-1-thumb.webp",
+          "tags": ["Themed Graphics", "Pop Culture", "Poster Design"],
+          "galleryImages": [
+            "/src/assets/photo/house-of-hogwarts-1.webp",
+            "/src/assets/photo/my-headquater-welcom-to-hogwarts-1.webp",
+            "/src/assets/photo/gen-offer-1.webp",
+            "/src/assets/photo/gen-offer-3.webp",
+            "/src/assets/photo/gen-offer-4.webp"
+          ]
+        },
+        {
+          "id": "ve-dj",
+          "title": "High-Hook DJ & Nightlife Video Edits",
+          "category": "Video editing",
+          "tagline": "Fast-Paced Motion Graphics & Kinetic Typography",
+          "description": "High-energy video promos, hook-optimized short-form edits, and kinetic typography engineered for maximum retention across Reels & TikTok.",
+          "image": "/src/assets/photo/dj-draggy.webp",
+          "thumb": "/src/assets/photo/dj-draggy-thumb.webp",
+          "tags": ["Hook Optimization", "Kinetic Typography", "Motion Graphics"],
+          "galleryImages": [
+            "/src/assets/photo/dj-draggy.webp",
+            "/src/assets/photo/dj-rd-babas.webp",
+            "/src/assets/photo/my-headquater-draggy-j.webp",
+            "/src/assets/photo/my-headquater-rawhul.webp"
+          ]
+        },
+        {
+          "id": "ve-bands",
+          "title": "Live Music Bands & Artist Coverage",
+          "category": "Video editing",
+          "tagline": "Concert Teasers & Performance Highlight Reels",
+          "description": "Cinematic live concert editing, beat-matched transitions, and acoustic video showcases for celebrated indie and Sufi artists.",
+          "image": "/src/assets/photo/kaash-band.webp",
+          "thumb": "/src/assets/photo/kaash-band-thumb.webp",
+          "tags": ["Concert Highlights", "Sound Design", "Artist Spotlight"],
+          "galleryImages": [
+            "/src/assets/photo/kaash-band.webp",
+            "/src/assets/photo/musafir-band-31-oct.webp",
+            "/src/assets/photo/garvit-live.webp",
+            "/src/assets/photo/gajendra.webp",
+            "/src/assets/photo/manvender.webp"
+          ]
+        },
+        {
+          "id": "ve-festival",
+          "title": "Bolly Punjabi Club Nights & Festival Videos",
+          "category": "Video editing",
+          "tagline": "Viral Holiday Event Promos & Recaps",
+          "description": "High-hook festival event video sequences, dynamic pacing, and crowd-hype edits driving ticket sales and viral organic reach.",
+          "image": "/src/assets/photo/bolly-punjabi-night-15-aug.webp",
+          "thumb": "/src/assets/photo/bolly-punjabi-night-15-aug-thumb.webp",
+          "tags": ["Event Promos", "Viral Pacing", "Festival Edits"],
+          "galleryImages": [
+            "/src/assets/photo/bolly-punjabi-night-15-aug.webp",
+            "/src/assets/photo/bolly-punjabi8-aug.webp",
+            "/src/assets/photo/bollywood-night-07-aug.webp",
+            "/src/assets/photo/retro-night-2-june.webp",
+            "/src/assets/photo/retro-night-my-bar-2.webp"
+          ]
+        },
+        {
+          "id": "wd-hotel-journee",
+          "title": "Hotel Journee Mussoorie Digital Showcase",
+          "category": "Website Development",
+          "tagline": "Modern Responsive Resort Web Experience",
+          "description": "Mobile-first resort web platform featuring immersive room galleries, local attraction itineraries, and direct inquiry booking flows.",
+          "image": "/src/assets/photo/hotel-journee-4.webp",
+          "thumb": "/src/assets/photo/hotel-journee-4-thumb.webp",
+          "tags": ["Resort Portal", "Mobile-First UX", "Direct Bookings"],
+          "galleryImages": [
+            "/src/assets/photo/hotel-journee-4.webp",
+            "/src/assets/photo/hotel-journee-location-post.webp",
+            "/src/assets/photo/hotel-journee-mussoorie-post.webp",
+            "/src/assets/photo/hotel-journee-png.webp"
+          ]
+        },
+        {
+          "id": "wd-hotel-nest",
+          "title": "Hotel Nest Mountain Retreat Web Teaser",
+          "category": "Website Development",
+          "tagline": "High-Converting Pre-Launch Property Site",
+          "description": "Coming-soon web teaser page featuring scenic mountain photography, VIP preview registrations, and interactive amenity previews.",
+          "image": "/src/assets/photo/hotel-nest-creative-ad.webp",
+          "thumb": "/src/assets/photo/hotel-nest-creative-ad-thumb.webp",
+          "tags": ["Launch Site", "Lead Capture", "Fast Performance"],
+          "galleryImages": [
+            "/src/assets/photo/hotel-nest-creative-ad.webp",
+            "/src/assets/photo/hotel-nest-coming-soon.webp",
+            "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+          ]
+        },
+        {
+          "id": "wd-avenue-web",
+          "title": "Avenue Luxury Real Estate Digital Portal",
+          "category": "Website Development",
+          "tagline": "Interactive Property Platform & Virtual Tour UI",
+          "description": "High-end corporate website engineered for ultra-luxury residential towers, incorporating floor-plan viewers and buyer lead pipelines.",
+          "image": "/src/assets/photo/avenue-real-estate-4.webp",
+          "thumb": "/src/assets/photo/avenue-real-estate-4-thumb.webp",
+          "tags": ["Real Estate Portal", "Lead Architecture", "Clean UI"],
+          "galleryImages": [
+            "/src/assets/photo/avenue-real-estate-4.webp",
+            "/src/assets/photo/avenue-real-estate-13.webp",
+            "/src/assets/photo/avenue-real-estate-10.webp"
+          ]
+        },
+        {
+          "id": "seo-journee",
+          "title": "Hotel Journee Search Dominance & Local SEO",
+          "category": "SEO & Digital Content Strategist",
+          "tagline": "Organic Authority & Hill-Station Keyword Capture",
+          "description": "Comprehensive technical and on-page SEO roadmap capturing high-intent traveler searches, optimizing Google Maps, and driving organic stays.",
+          "image": "/src/assets/photo/hotel-journee-location-post.webp",
+          "thumb": "/src/assets/photo/hotel-journee-location-post-thumb.webp",
+          "tags": ["Local SEO", "Keyword Strategy", "Organic Authority"],
+          "galleryImages": [
+            "/src/assets/photo/hotel-journee-location-post.webp",
+            "/src/assets/photo/hotel-journee-mussoorie-post.webp"
+          ]
+        },
+        {
+          "id": "seo-mybar",
+          "title": "My Bar Weekly Promotional Content Architecture",
+          "category": "SEO & Digital Content Strategist",
+          "tagline": "Data-Backed Social Calendars & Campaign Roadmaps",
+          "description": "Formulated monthly content calendars, keyword-optimized social captions, and target-audience hashtag research maximizing engagement.",
+          "image": "/src/assets/photo/my-bar-headquater-4.webp",
+          "thumb": "/src/assets/photo/my-bar-headquater-4-thumb.webp",
+          "tags": ["Content Calendar", "Trend Optimization", "Engagement"],
+          "galleryImages": [
+            "/src/assets/photo/my-bar-headquater-4.webp",
+            "/src/assets/photo/my-bar-weekly-offer-3.webp"
+          ]
+        },
+        {
+          "id": "seo-avenue",
+          "title": "Avenue Real Estate Search & Ad Strategy",
+          "category": "SEO & Digital Content Strategist",
+          "tagline": "High-Intent Buyer Acquisition & Content Formulation",
+          "description": "Targeted search campaigns, Google Ads architecture, and conversion copywriting delivering qualified HNWI leads for luxury apartments.",
+          "image": "/src/assets/photo/avenue-real-estate-7.webp",
+          "thumb": "/src/assets/photo/avenue-real-estate-7-thumb.webp",
+          "tags": ["Acquisition Strategy", "Buyer Intent", "Digital Roadmap"],
+          "galleryImages": [
+            "/src/assets/photo/avenue-real-estate-7.webp",
+            "/src/assets/photo/avenue-real-estate-19.webp",
+            "/src/assets/photo/avenue-real-estate-10.webp"
+          ]
+        },
+        {
+          "id": "smm-copacabana",
+          "title": "Copacabana Social Media & Nightlife Ads",
+          "category": "Social Media Marketing",
+          "tagline": "Organic Social Engagement & Performance Creative",
+          "description": "High-impact social posts, viral weekend campaign creatives, and audience-hooking promotional assets maximizing engagement and attendance.",
+          "image": "/src/assets/photo/copacabana-post.webp",
+          "thumb": "/src/assets/photo/copacabana-post-thumb.webp",
+          "tags": ["Social Media", "Paid Ads", "Audience Engagement"],
+          "galleryImages": [
+            "/src/assets/photo/copacabana-post.webp",
+            "/src/assets/photo/my-bar-headquater-4.webp",
+            "/src/assets/photo/my-bar-weekly-offer-3.webp"
+          ]
+        },
+        {
+          "id": "smm-mybar",
+          "title": "My Bar Weekly Events & Ladies Night Series",
+          "category": "Social Media Marketing",
+          "tagline": "Themed Nightlife Social Strategy & Community Building",
+          "description": "Recurring social post calendar, special theme night announcements, and targeted social ad campaigns generating consistent brand buzz.",
+          "image": "/src/assets/photo/my-bar-ladies-night-22nd-july.webp",
+          "thumb": "/src/assets/photo/my-bar-ladies-night-22nd-july-thumb.webp",
+          "tags": ["Weekly Campaigns", "Event Social", "Creative Storytelling"],
+          "galleryImages": [
+            "/src/assets/photo/my-bar-ladies-night-22nd-july.webp",
+            "/src/assets/photo/my-bar-kitty-party.webp",
+            "/src/assets/photo/insta-post-2.webp",
+            "/src/assets/photo/valentine-post-3.webp"
+          ]
+        },
+        {
+          "id": "smm-dining",
+          "title": "Dining & Cafe Social Media Campaigns",
+          "category": "Social Media Marketing",
+          "tagline": "Viral Food Creatives & Student Discount Promotions",
+          "description": "Dynamic social media graphics, student offer campaigns, and enticing food photography carousels driving viral shares and walk-in diners.",
+          "image": "/src/assets/photo/food-post.webp",
+          "thumb": "/src/assets/photo/food-post-thumb.webp",
+          "tags": ["Viral Food Posts", "Social Offers", "Impulse Orders"],
+          "galleryImages": [
+            "/src/assets/photo/food-post.webp",
+            "/src/assets/photo/indiano-student-offer.webp",
+            "/src/assets/photo/friday-offer-neelansh.webp",
+            "/src/assets/photo/d-milano-imfl-offer.webp"
+          ]
+        }
+      ]
+    },
+    "get-in-touch": {
+      "seo": {
+        "title": "Get In Touch | Coherence Visual",
+        "description": "Connect with Coherence Visual digital marketing agency. Let's make something big together.",
+        "ogImage": "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+      },
+      "hero": {
+        "badge": "Start A Conversation",
+        "title": "LET'S MAKE SOMETHING BIG TOGETHER",
+        "subtitle": "Whether you're a startup looking to make an impact or an established brand seeking a fresh perspective, Coherence Visual is your partner in success.",
+        "bgImage": "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+      },
+      "contactInfo": {
+        "headline": "Ready to Innovate Your Digital Landscape?",
+        "intro": "Right after clients get on board, we follow a formal process through which we execute & complete projects. Reach out directly to initiate your roadmap.",
+        "channels": [
+          { "label": "Direct Email", "value": "coherencevisual@gmail.com", "sub": "Average response within 24 hours" },
+          { "label": "Direct Phones", "value": "+91 8789778359 | 7061301321", "sub": "Available Mon - Sat for inquiries" },
+          { "label": "Client Relations", "value": "Sumit Chandra & Ravi Ranjan", "sub": "Strategic Roadmaps & Growth Queries" },
+          { "label": "Registered Office", "value": "J-67/68, F/F-2, J-Block, Laxmi Nagar, East Delhi 110092", "sub": "Near Mandir, East Delhi, Delhi" }
+        ]
+      },
+      "formFields": [
+        { "name": "name", "label": "Your Name", "type": "text", "placeholder": "Enter your full name", "required": true },
+        { "name": "email", "label": "Email Address", "type": "email", "placeholder": "you@company.com", "required": true },
+        { "name": "phone", "label": "Phone Number", "type": "tel", "placeholder": "+91 98765 43210", "required": true },
+        { "name": "service", "label": "Service Needed", "type": "select", "options": ["Branding & Logo Design", "Website Design & Development", "Video Production & Editing", "SEO & Digital Marketing", "Social Media Strategy", "Comprehensive 360° Package"], "required": true },
+        { "name": "message", "label": "Project Details & Goals", "type": "textarea", "placeholder": "Tell us about your brand, objectives, and timeline...", "required": true }
+      ]
+    },
+    "work-with-us": {
+      "seo": {
+        "title": "Work With Us | Careers & Culture at Coherence Visual",
+        "description": "Join the Coherence Visual team. We are storytellers, innovators, and digital strategists committed to elevating brands.",
+        "ogImage": "/src/assets/photo/avenue-real-estate-10.webp"
+      },
+      "hero": {
+        "badge": "Careers & Collaboration",
+        "title": "WORK WITH US",
+        "subtitle": "Success is not about greatness, it's about consistency. Consistent hard work leads to success. Greatness will come.",
+        "bgImage": "/src/assets/photo/avenue-real-estate-10.webp"
+      },
+      "culture": {
+        "title": "Life at Coherence Visual",
+        "subtitle": "An agency is all about solving clients' problems at a profit. Keep generating solutions whether the problem is large or small in scale.",
+        "perks": [
+          { "title": "High-End Systems & Creative Tools", "desc": "Equipped with state-of-the-art hardware and software tools (Photoshop, Figma, Illustrator, Premiere Pro, After Effects) to bring your vision to life." },
+          { "title": "Mentorship Under Senior Leads", "desc": "Work directly alongside seasoned veterans with 8+ years of industry experience across SEO, creative direction, and client strategy." },
+          { "title": "Dynamic Culture-First Storytelling", "desc": "Collaborate on viral reels, on-site event coverage, luxury real estate campaigns, and landmark hospitality brands." },
+          { "title": "Merit & Results-Driven Environment", "desc": "We value initiative, creativity, and consistency above hierarchies. Your ideas take center stage from day one." }
+        ]
+      },
+      "openings": [
+        {
+          "role": "Visual Designer & UI/UX Specialist",
+          "department": "Design & Brand Identity",
+          "lead": "Mentored by Prashant Kumar (Creative Head)",
+          "requirements": ["Proficiency in Figma, Illustrator, Photoshop, and layout systems", "Strong understanding of typography, color harmony, and digital hierarchy", "Ability to create high-converting UI layouts and brand guidelines"],
+          "type": "Full-Time | On-Site / Hybrid"
+        },
+        {
+          "role": "Short-Form Video Editor & Reel Strategist",
+          "department": "Video Production",
+          "lead": "Mentored by Vyom Kumar (Video Lead)",
+          "requirements": ["High-hook optimization and fast-paced retention editing", "Kinetic typography, dynamic captioning, and sound design", "Knowledge of trending formats, TikTok/Reels algorithms, and short-form pacing"],
+          "type": "Full-Time | Creative Studio"
+        },
+        {
+          "role": "SEO & Growth Associate",
+          "department": "Digital Strategy",
+          "lead": "Mentored by Sumit Chandra (Senior Growth Strategist)",
+          "requirements": ["Hands-on organic search engine optimization and keyword architecture", "Analytical mindset for search trends, market insights, and audit reports", "Understanding of content roadmaps and technical on-page ranking factors"],
+          "type": "Full-Time"
+        },
+        {
+          "role": "Digital Content Creator & Reel Producer",
+          "department": "Content & Social Media",
+          "lead": "Mentored by Muskan Panday (Content Creator)",
+          "requirements": ["Dynamic, culture-first storytelling and on-camera confidence", "Experience in on-site event coverage and viral trend adaptation", "Strong conceptual writing and content calendar structuring"],
+          "type": "Full-Time"
+        }
+      ]
+    }
+  }
+}
