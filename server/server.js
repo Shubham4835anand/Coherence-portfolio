@@ -17,15 +17,25 @@ dotenv.config({ path: path.join(__dirname, '.env') });
 dotenv.config({ path: path.join(__dirname, '..', '.env') });
 
 const app = express();
+app.set('trust proxy', 1);
 const PORT = process.env.PORT || 5000;
 
 // Security and performance middleware
 app.use(helmet({
   crossOriginResourcePolicy: false,
 }));
-app.use(cors());
+// app.use(cors());
+
+app.use(cors({
+  origin: process.env.CLIENT_ORIGIN
+    ? process.env.CLIENT_ORIGIN.split(',').map(o => o.trim().replace(/\/$/, ''))
+    : true,
+}));
 app.use(compression());
 app.use(express.json());
+
+
+
 
 // Rate limiter for general requests
 const generalLimiter = rateLimit({
@@ -48,7 +58,10 @@ const contactLimiter = rateLimit({
 
 // Paths to JSON data
 const contentPath = path.join(__dirname, 'data', 'content.json');
-const leadsPath = path.join(__dirname, 'data', 'leads.json');
+// const leadsPath = path.join(__dirname, 'data', 'leads.json');
+const leadsPath = process.env.VERCEL
+  ? '/tmp/leads.json'
+  : path.join(__dirname, 'data', 'leads.json');
 
 // Helper to load content
 function loadContent() {
@@ -194,8 +207,8 @@ app.get('/api/nav', (req, res) => {
   if (!content) return res.status(500).json({ error: 'Content unavailable' });
 
   // Filter out any accidental 'blog' references
-  const nav = (content.navigation || []).filter(item => 
-    !item.path.toLowerCase().includes('blog') && 
+  const nav = (content.navigation || []).filter(item =>
+    !item.path.toLowerCase().includes('blog') &&
     !item.name.toLowerCase().includes('blog')
   );
 
@@ -276,15 +289,32 @@ app.post('/api/contact', contactLimiter, async (req, res) => {
     ip: req.ip || req.headers['x-forwarded-for'] || 'unknown'
   };
 
+  // try {
+  //   // 1. Save lead to JSON file
+  //   let leads = [];
+  //   if (fs.existsSync(leadsPath)) {
+  //     const raw = fs.readFileSync(leadsPath, 'utf8');
+  //     leads = JSON.parse(raw || '[]');
+  //   }
+  //   leads.push(newLead);
+  //   fs.writeFileSync(leadsPath, JSON.stringify(leads, null, 2));
+  //   console.log(`[LEAD RECEIVED] ${newLead.name} (${newLead.email}) for ${newLead.service}`);
+
+  //   // 2. Dispatch real email via Nodemailer
+  //   const emailResult = await sendLeadEmails(newLead);
+
   try {
-    // 1. Save lead to JSON file
-    let leads = [];
-    if (fs.existsSync(leadsPath)) {
-      const raw = fs.readFileSync(leadsPath, 'utf8');
-      leads = JSON.parse(raw || '[]');
+    // 1. Save lead (best effort, /tmp is temporary on Vercel)
+    try {
+      let leads = [];
+      if (fs.existsSync(leadsPath)) {
+        leads = JSON.parse(fs.readFileSync(leadsPath, 'utf8') || '[]');
+      }
+      leads.push(newLead);
+      fs.writeFileSync(leadsPath, JSON.stringify(leads, null, 2));
+    } catch (saveErr) {
+      console.warn('[LEAD] Could not save to file:', saveErr.message);
     }
-    leads.push(newLead);
-    fs.writeFileSync(leadsPath, JSON.stringify(leads, null, 2));
     console.log(`[LEAD RECEIVED] ${newLead.name} (${newLead.email}) for ${newLead.service}`);
 
     // 2. Dispatch real email via Nodemailer
@@ -302,20 +332,23 @@ app.post('/api/contact', contactLimiter, async (req, res) => {
   }
 });
 
+app.get('/', (req, res) => res.send('Coherence Visual API is running'));
+
 // Health check
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', service: 'Coherence Visual API', timestamp: new Date().toISOString() });
 });
 
-app.listen(PORT, () => {
-  console.log(`Coherence Visual Express API listening on http://localhost:${PORT}`);
-  // Test transporter initialization on start
-  const transporter = getTransporter();
-  if (transporter) {
-    transporter.verify().then(() => {
-      console.log(`[EMAIL] Nodemailer SMTP verified & connected to ${process.env.EMAIL_HOST} (${process.env.EMAIL_USER})`);
-    }).catch(err => {
-      console.error('[EMAIL] Nodemailer SMTP connection check failed:', err.message);
-    });
-  }
-});
+if (!process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`Coherence Visual Express API listening on http://localhost:${PORT}`);
+    const transporter = getTransporter();
+    if (transporter) {
+      transporter.verify()
+        .then(() => console.log(`[EMAIL] SMTP verified (${process.env.EMAIL_USER})`))
+        .catch(err => console.error('[EMAIL] SMTP check failed:', err.message));
+    }
+  });
+}
+
+export default app;
