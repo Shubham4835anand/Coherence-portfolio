@@ -367,7 +367,7 @@ export default function GetInTouch() {
         subtitle="We passionately create intelligent and immersive digital experiences with fresh and innovative ideas."
         buttonText="Explore Our Work"
         buttonLink="/our-work"
-        bgImage="/src/assets/photo/hotel-nest-mountain-view-text.webp"
+        bgImage="/photo/hotel-nest-mountain-view-text.webp"
       />
     </main>
   );

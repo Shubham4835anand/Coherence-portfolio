@@ -55,7 +55,7 @@ export default function OurWork() {
       title: 'GRAPHIC DESIGNING ⇢',
       category: 'Graphic Designing',
       slug: 'graphic-designing',
-      coverImage: '/src/assets/photo/avenue-real-estate-13.webp',
+      coverImage: '/photo/avenue-real-estate-13.webp',
       tagline: 'Brand Identities, Print Hoardings, Table Standees & Dining Creatives',
       description: 'Luxury architectural hoardings, restaurant POS table standees, offer graphics, and pop-culture themed visual art engineered to capture high visual attention.',
       itemCount: 16
@@ -64,7 +64,7 @@ export default function OurWork() {
       title: 'VIDEO EDITING ⇢',
       category: 'Video editing',
       slug: 'video-editing',
-      coverImage: '/src/assets/photo/bolly-punjabi-night-15-aug.webp',
+      coverImage: '/photo/bolly-punjabi-night-15-aug.webp',
       tagline: 'Hook Optimization, Kinetic Typography & Concert Teaser Reels',
       description: 'High-energy DJ video promos, live band acoustic showcases, and viral Bolly Punjabi club night edits engineered for maximum retention across Reels & TikTok.',
       itemCount: 15
@@ -73,7 +73,7 @@ export default function OurWork() {
       title: 'WEBSITE DEVELOPMENT ⇢',
       category: 'Website Development',
       slug: 'website-development',
-      coverImage: '/src/assets/photo/hotel-journee-4.webp',
+      coverImage: '/photo/hotel-journee-4.webp',
       tagline: 'Responsive Resort Portals, UI Systems & Launch Showcases',
       description: 'Mobile-first resort platforms, luxury pre-launch property teasers, and interactive digital interfaces driving direct bookings and qualified buyer inquiries.',
       itemCount: 7
@@ -82,7 +82,7 @@ export default function OurWork() {
       title: 'SEO & DIGITAL CONTENT STRATEGIST ⇢',
       category: 'SEO & Digital Content Strategist',
       slug: 'seo-digital-content-strategist',
-      coverImage: '/src/assets/photo/hotel-journee-location-post.webp',
+      coverImage: '/photo/hotel-journee-location-post.webp',
       tagline: 'Keyword Capture, Content Architecture & HNWI Buyer Pipelines',
       description: 'Local hill-station Google search dominance, weekly nightlife promotional content architectures, and high-converting acquisition funnels.',
       itemCount: 5
@@ -91,7 +91,7 @@ export default function OurWork() {
       title: 'SOCIAL MEDIA MARKETING ⇢',
       category: 'Social Media Marketing',
       slug: 'social-media-marketing',
-      coverImage: '/src/assets/photo/copacabana-post.webp',
+      coverImage: '/photo/copacabana-post.webp',
       tagline: 'Nightlife Social Ads, Weekly Ladies Night Series & Viral Dining Posts',
       description: 'Organic engagement posts, recurring theme-night social calendars, and mouth-watering food carousels driving viral shares and walk-in footfall.',
       itemCount: 8
@@ -912,7 +912,7 @@ export default function OurWork() {
         subtitle="Let our multidisciplinary team formulate your campaign roadmap with high-converting creative."
         buttonText="Get in touch"
         buttonLink="/get-in-touch"
-        bgImage="/src/assets/photo/bolly-punjabi-night-15-aug.webp"
+        bgImage="/photo/bolly-punjabi-night-15-aug.webp"
       />
     </main>
   );

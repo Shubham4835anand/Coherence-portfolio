@@ -51,8 +51,8 @@ async function run() {
       manifest[file] = {
         original: file,
         slug,
-        webp: `/src/assets/photo/${slug}.webp`,
-        thumb: `/src/assets/photo/${slug}-thumb.webp`,
+        webp: `/photo/${slug}.webp`,
+        thumb: `/photo/${slug}-thumb.webp`,
         width: metadata.width,
         height: metadata.height
       };

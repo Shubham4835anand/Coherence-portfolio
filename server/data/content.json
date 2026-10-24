@@ -27,7 +27,7 @@
       "seo": {
         "title": "Coherence Visual | Digital Marketing Agency New Delhi",
         "description": "Coherence Visual is a premier digital marketing agency elevating brands with fresh creative innovation, strategic thinking, and results-driven digital experiences.",
-        "ogImage": "/src/assets/photo/hotel-journee-4.webp"
+        "ogImage": "/photo/hotel-journee-4.webp"
       },
       "hero": {
         "badge": "Digital Marketing Agency",
@@ -37,7 +37,7 @@
         "ctaLink": "/our-work",
         "secondaryCtaText": "Get In Touch",
         "secondaryCtaLink": "/get-in-touch",
-        "bgImage": "/src/assets/photo/hotel-journee-4.webp"
+        "bgImage": "/photo/hotel-journee-4.webp"
       },
       "whatWeDo": {
         "title": "What we do?",
@@ -66,31 +66,31 @@
           {
             "title": "Logo Design & Branding",
             "description": "Unique, high-impact brand identities and visual assets engineered to resonate deeply with target audiences.",
-            "image": "/src/assets/photo/avenue-real-estate-10.webp",
+            "image": "/photo/avenue-real-estate-10.webp",
             "link": "/our-services"
           },
           {
             "title": "Website Design",
             "description": "Modern, high-converting digital interfaces and web experiences tailored to align with business objectives.",
-            "image": "/src/assets/photo/hotel-nest-creative-ad.webp",
+            "image": "/photo/hotel-nest-creative-ad.webp",
             "link": "/our-services"
           },
           {
             "title": "Video Editing & Production",
             "description": "High-hook, fast-paced edits and short-form storytelling engineered for retention and algorithmic reach.",
-            "image": "/src/assets/photo/house-of-hogwarts-1.webp",
+            "image": "/photo/house-of-hogwarts-1.webp",
             "link": "/our-services"
           },
           {
             "title": "Social Media Design",
             "description": "Content planning, engaging visual posts, and viral trend strategies designed to position your brand at the forefront.",
-            "image": "/src/assets/photo/copacabana-post.webp",
+            "image": "/photo/copacabana-post.webp",
             "link": "/our-services"
           },
           {
             "title": "SEO & Digital Marketing",
             "description": "Sustainable organic authority, campaign formulation, and market-researched performance marketing.",
-            "image": "/src/assets/photo/hotel-journee-mussoorie-post.webp",
+            "image": "/photo/hotel-journee-mussoorie-post.webp",
             "link": "/our-services"
           }
         ]
@@ -106,40 +106,40 @@
           { "number": "04", "name": "PRODUCTION", "desc": "Equipped with high-end systems and creative tools for flawless craft" },
           { "number": "05", "name": "REACH", "desc": "Optimized multi-channel execution and algorithmic amplification" }
         ],
-        "bgImage": "/src/assets/photo/avenue-real-estate-7.webp"
+        "bgImage": "/photo/avenue-real-estate-7.webp"
       },
       "integratedSolutions": {
         "title": "Integrated Digital Solutions",
         "subtitle": "Insights, Metrics and Analytics - Everything is connected!",
         "description": "At Coherence Visual, every campaign and design is backed by market research, trends, and data insights to maximize audience engagement. We customize our strategies to align with your business goals, ensuring optimal results.",
-        "image": "/src/assets/photo/copacabana-post.webp"
+        "image": "/photo/copacabana-post.webp"
       },
       "strategySection": {
         "title": "Strategy, Creativity & Results!",
         "subtitle": "Our approach is backed by strategy, creativity and optimised for results.",
         "description": "Whether you're a startup looking to make an impact or an established brand seeking a fresh perspective, Coherence Visual is your partner in success. We focus on measurable success, ensuring that every design, campaign, and strategy delivers tangible value.",
-        "image": "/src/assets/photo/house-of-hogwarts-1.webp"
+        "image": "/photo/house-of-hogwarts-1.webp"
       },
       "clientsSection": {
         "title": "Trusted by Growing Brands",
         "subtitle": "Delivering transformative creative and digital impact across hospitality, real estate, F&B, and lifestyle.",
         "logos": [
-          { "name": "Avenue Real Estate", "category": "Real Estate", "image": "/src/assets/photo/avenue-real-estate-4-thumb.webp" },
-          { "name": "Hotel Journee Mussoorie", "category": "Hospitality", "image": "/src/assets/photo/hotel-journee-location-post-thumb.webp" },
-          { "name": "Hotel Nest", "category": "Hospitality", "image": "/src/assets/photo/hotel-nest-coming-soon-thumb.webp" },
-          { "name": "My Bar Headquarters", "category": "Nightlife & Dining", "image": "/src/assets/photo/my-bar-headquater-4-thumb.webp" },
-          { "name": "Copacabana", "category": "Events & Lounge", "image": "/src/assets/photo/copacabana-post-thumb.webp" },
-          { "name": "D Milano", "category": "F&B", "image": "/src/assets/photo/d-milano-imfl-offer-thumb.webp" },
-          { "name": "Indiano", "category": "Dining & Cafe", "image": "/src/assets/photo/indiano-student-offer-thumb.webp" },
-          { "name": "House of Hogwarts", "category": "Experiential", "image": "/src/assets/photo/house-of-hogwarts-1-thumb.webp" },
-          { "name": "Retro Night Lounge", "category": "Entertainment", "image": "/src/assets/photo/retro-night-2-june-thumb.webp" },
-          { "name": "Kaash Live", "category": "Music & Entertainment", "image": "/src/assets/photo/kaash-band-thumb.webp" },
-          { "name": "Garvit Live", "category": "Events", "image": "/src/assets/photo/garvit-live-thumb.webp" },
-          { "name": "Bolly Punjabi Club", "category": "Nightlife", "image": "/src/assets/photo/bolly-punjabi-night-15-aug-thumb.webp" },
-          { "name": "Neelansh Hospitality", "category": "Resorts & Dining", "image": "/src/assets/photo/friday-offer-neelansh-thumb.webp" },
-          { "name": "Musafir Collective", "category": "Live Music", "image": "/src/assets/photo/musafir-band-31-oct-thumb.webp" },
-          { "name": "Sufi Nights", "category": "Curated Experiences", "image": "/src/assets/photo/sufi-night-babas-1-thumb.webp" },
-          { "name": "Valentine Festive", "category": "Campaigns", "image": "/src/assets/photo/valentine-post-3-thumb.webp" }
+          { "name": "Avenue Real Estate", "category": "Real Estate", "image": "/photo/avenue-real-estate-4-thumb.webp" },
+          { "name": "Hotel Journee Mussoorie", "category": "Hospitality", "image": "/photo/hotel-journee-location-post-thumb.webp" },
+          { "name": "Hotel Nest", "category": "Hospitality", "image": "/photo/hotel-nest-coming-soon-thumb.webp" },
+          { "name": "My Bar Headquarters", "category": "Nightlife & Dining", "image": "/photo/my-bar-headquater-4-thumb.webp" },
+          { "name": "Copacabana", "category": "Events & Lounge", "image": "/photo/copacabana-post-thumb.webp" },
+          { "name": "D Milano", "category": "F&B", "image": "/photo/d-milano-imfl-offer-thumb.webp" },
+          { "name": "Indiano", "category": "Dining & Cafe", "image": "/photo/indiano-student-offer-thumb.webp" },
+          { "name": "House of Hogwarts", "category": "Experiential", "image": "/photo/house-of-hogwarts-1-thumb.webp" },
+          { "name": "Retro Night Lounge", "category": "Entertainment", "image": "/photo/retro-night-2-june-thumb.webp" },
+          { "name": "Kaash Live", "category": "Music & Entertainment", "image": "/photo/kaash-band-thumb.webp" },
+          { "name": "Garvit Live", "category": "Events", "image": "/photo/garvit-live-thumb.webp" },
+          { "name": "Bolly Punjabi Club", "category": "Nightlife", "image": "/photo/bolly-punjabi-night-15-aug-thumb.webp" },
+          { "name": "Neelansh Hospitality", "category": "Resorts & Dining", "image": "/photo/friday-offer-neelansh-thumb.webp" },
+          { "name": "Musafir Collective", "category": "Live Music", "image": "/photo/musafir-band-31-oct-thumb.webp" },
+          { "name": "Sufi Nights", "category": "Curated Experiences", "image": "/photo/sufi-night-babas-1-thumb.webp" },
+          { "name": "Valentine Festive", "category": "Campaigns", "image": "/photo/valentine-post-3-thumb.webp" }
         ]
       },
       "ctaBanner": {
@@ -147,7 +147,7 @@
         "subtitle": "We passionately create intelligent and immersive digital experiences with fresh and innovative ideas.",
         "buttonText": "Start Your Project",
         "buttonLink": "/get-in-touch",
-        "bgImage": "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+        "bgImage": "/photo/hotel-nest-mountain-view-text.webp"
       },
       "procedureOverview": {
         "title": "Our Execution Procedure",
@@ -198,13 +198,13 @@
       "seo": {
         "title": "About Us | Coherence Visual",
         "description": "Learn about Coherence Visual - our story, creative leadership, core pillars, and our commitment to elevating brands with innovation and strategy.",
-        "ogImage": "/src/assets/photo/hotel-journee-location-post.webp"
+        "ogImage": "/photo/hotel-journee-location-post.webp"
       },
       "hero": {
         "badge": "01 About Us",
         "title": "Innovating the Digital Landscape with Creativity & Strategy!",
         "lead": "At Coherence Visual, we are more than just a creative agency—we are storytellers, innovators, and digital strategists committed to elevating brands in today's competitive landscape.",
-        "bgImage": "/src/assets/photo/hotel-journee-location-post.webp"
+        "bgImage": "/photo/hotel-journee-location-post.webp"
       },
       "story": {
         "paragraph1": "Our expertise spans across branding, social media, video production, web development, and digital marketing, ensuring that businesses not only establish a presence but also thrive.",
@@ -292,13 +292,13 @@
       "seo": {
         "title": "Our Services | Coherence Visual",
         "description": "Explore Coherence Visual's digital services: Logo Design & Branding, Website Design, Video Editing, Social Media Management, and SEO.",
-        "ogImage": "/src/assets/photo/avenue-real-estate-4.webp"
+        "ogImage": "/photo/avenue-real-estate-4.webp"
       },
       "hero": {
         "badge": "What We Offer",
         "title": "OUR SERVICES",
         "subtitle": "Comprehensive digital solutions from concept to execution. We engineer high-impact creative, websites, video production, and organic growth strategies.",
-        "bgImage": "/src/assets/photo/avenue-real-estate-4.webp"
+        "bgImage": "/photo/avenue-real-estate-4.webp"
       },
       "serviceList": [
         {
@@ -309,7 +309,7 @@
           "lead": "Prashant Kumar (Creative Head & Visual Lead)",
           "competencies": ["Visual Brand Direction & Graphic Artistry", "Photoshop, Illustrator, Figma & Canva Mastery", "UI/UX & Web Interface Design"],
           "deliverables": ["Primary & Secondary Logomarks", "Brand Identity Guidelines", "Typography & Palette Systems", "Marketing Collateral & Standees"],
-          "image": "/src/assets/photo/10x12-inches-table-standee-burger.webp"
+          "image": "/photo/10x12-inches-table-standee-burger.webp"
         },
         {
           "id": "web-design",
@@ -319,7 +319,7 @@
           "lead": "Multidisciplinary Engineering Team",
           "competencies": ["Modern Front-end Architecture", "Responsive & Mobile-First UX", "Conversion-Optimized Layouts"],
           "deliverables": ["Custom Agency & Corporate Websites", "Interactive Product Showcases", "Fast Loading Web Performance", "CMS & Content Integration"],
-          "image": "/src/assets/photo/hotel-journee-4.webp"
+          "image": "/photo/hotel-journee-4.webp"
         },
         {
           "id": "video-editing",
@@ -329,7 +329,7 @@
           "lead": "Vyom Kumar (Video Production Lead)",
           "competencies": ["Hook Optimization & Audience Retention Editing", "Kinetic Typography & Dynamic Captions", "Short-Form Ad & Organic Content Strategy"],
           "deliverables": ["Viral Short-Form Reels & TikToks", "Promotional Event Visuals", "Brand Story Commercials", "Motion Graphics & Kinetic Typography"],
-          "image": "/src/assets/photo/dj-draggy.webp"
+          "image": "/photo/dj-draggy.webp"
         },
         {
           "id": "social-media",
@@ -339,7 +339,7 @@
           "lead": "Muskan Panday & Ravi Ranjan",
           "competencies": ["Viral Short-Form Video & Trend Strategy", "Brand Promotional Content & Visual Identity", "Conversion Copywriting & Storytelling"],
           "deliverables": ["Monthly Content Strategy Calendars", "Ad Campaigns & Promotional Creatives", "Reel Concepts & Culture-First Narratives", "Community Engagement Asset Packs"],
-          "image": "/src/assets/photo/copacabana-post.webp"
+          "image": "/photo/copacabana-post.webp"
         },
         {
           "id": "seo-digital-marketing",
@@ -349,7 +349,7 @@
           "lead": "Sumit Chandra (SEO & Digital Growth Strategist)",
           "competencies": ["Organic Search Engine Optimization", "Digital Strategy & Campaign Formulation", "Long-Term Brand Building Architecture"],
           "deliverables": ["Comprehensive Technical & On-Page SEO", "Keyword Research & Content Architecture", "Competitor & Market Landscape Analysis", "Performance Tracking & Growth Dashboards"],
-          "image": "/src/assets/photo/hotel-journee-location-post.webp"
+          "image": "/photo/hotel-journee-location-post.webp"
         }
       ],
       "terms": {
@@ -369,13 +369,13 @@
       "seo": {
         "title": "Our Work | Coherence Visual Portfolio",
         "description": "Explore Coherence Visual's creative portfolio spanning hospitality, nightlife, real estate, event production, and dining campaigns.",
-        "ogImage": "/src/assets/photo/bolly-punjabi-night-15-aug.webp"
+        "ogImage": "/photo/bolly-punjabi-night-15-aug.webp"
       },
       "hero": {
         "badge": "Portfolio & Case Studies",
         "title": "OUR WORK",
         "subtitle": "Fresh, unique, and high-impact designs engineered to captivate audiences and drive measurable business growth.",
-        "bgImage": "/src/assets/photo/bolly-punjabi-night-15-aug.webp"
+        "bgImage": "/photo/bolly-punjabi-night-15-aug.webp"
       },
       "categories": ["All", "Graphic Designing", "Video editing", "Website Development", "SEO & Digital Content Strategist", "Social Media Marketing"],
       "projects": [
@@ -385,15 +385,15 @@
           "category": "Graphic Designing",
           "tagline": "Brand Identity, Typography Systems & Hoardings",
           "description": "High-impact visual identity, luxury architectural hoardings, brochures, and digital ad creative crafted for premier real estate properties.",
-          "image": "/src/assets/photo/avenue-real-estate-13.webp",
-          "thumb": "/src/assets/photo/avenue-real-estate-13-thumb.webp",
+          "image": "/photo/avenue-real-estate-13.webp",
+          "thumb": "/photo/avenue-real-estate-13-thumb.webp",
           "tags": ["Visual Identity", "Print Hoardings", "Graphic Artistry"],
           "galleryImages": [
-            "/src/assets/photo/avenue-real-estate-13.webp",
-            "/src/assets/photo/avenue-real-estate-10.webp",
-            "/src/assets/photo/avenue-real-estate-4.webp",
-            "/src/assets/photo/avenue-real-estate-7.webp",
-            "/src/assets/photo/avenue-real-estate-19.webp"
+            "/photo/avenue-real-estate-13.webp",
+            "/photo/avenue-real-estate-10.webp",
+            "/photo/avenue-real-estate-4.webp",
+            "/photo/avenue-real-estate-7.webp",
+            "/photo/avenue-real-estate-19.webp"
           ]
         },
         {
@@ -402,14 +402,14 @@
           "category": "Graphic Designing",
           "tagline": "10x12 Inches Table Standees & In-Store Graphics",
           "description": "Custom dining table standees, visual menus, and food photography layouts engineered for on-table conversion and impulse orders.",
-          "image": "/src/assets/photo/10x12-inches-table-standee-burger.webp",
-          "thumb": "/src/assets/photo/10x12-inches-table-standee-burger-thumb.webp",
+          "image": "/photo/10x12-inches-table-standee-burger.webp",
+          "thumb": "/photo/10x12-inches-table-standee-burger-thumb.webp",
           "tags": ["POS Design", "Food Layouts", "Print Craft"],
           "galleryImages": [
-            "/src/assets/photo/10x12-inches-table-standee-burger.webp",
-            "/src/assets/photo/10x12-inches-table-standee.webp",
-            "/src/assets/photo/food-post.webp",
-            "/src/assets/photo/indiano-student-offer.webp"
+            "/photo/10x12-inches-table-standee-burger.webp",
+            "/photo/10x12-inches-table-standee.webp",
+            "/photo/food-post.webp",
+            "/photo/indiano-student-offer.webp"
           ]
         },
         {
@@ -418,14 +418,14 @@
           "category": "Graphic Designing",
           "tagline": "Inauguration Campaigns & Signature Offer Graphics",
           "description": "Polished promotional visuals, inauguration announcements, and seasonal discount collateral tailored for high-end hospitality diners.",
-          "image": "/src/assets/photo/inauguration-offer-d-milano-post.webp",
-          "thumb": "/src/assets/photo/inauguration-offer-d-milano-post-thumb.webp",
+          "image": "/photo/inauguration-offer-d-milano-post.webp",
+          "thumb": "/photo/inauguration-offer-d-milano-post-thumb.webp",
           "tags": ["Dining Posters", "Offer Creative", "Typography"],
           "galleryImages": [
-            "/src/assets/photo/inauguration-offer-d-milano-post.webp",
-            "/src/assets/photo/d-milano-imfl-offer.webp",
-            "/src/assets/photo/friday-offer-neelansh.webp",
-            "/src/assets/photo/valentine-post-3.webp"
+            "/photo/inauguration-offer-d-milano-post.webp",
+            "/photo/d-milano-imfl-offer.webp",
+            "/photo/friday-offer-neelansh.webp",
+            "/photo/valentine-post-3.webp"
           ]
         },
         {
@@ -434,15 +434,15 @@
           "category": "Graphic Designing",
           "tagline": "Pop-Culture Themed Graphics & Environmental Creative",
           "description": "Immersive graphic identity, themed flyers, stage backdrops, and character tribute artwork created for curated experiential nightlife.",
-          "image": "/src/assets/photo/house-of-hogwarts-1.webp",
-          "thumb": "/src/assets/photo/house-of-hogwarts-1-thumb.webp",
+          "image": "/photo/house-of-hogwarts-1.webp",
+          "thumb": "/photo/house-of-hogwarts-1-thumb.webp",
           "tags": ["Themed Graphics", "Pop Culture", "Poster Design"],
           "galleryImages": [
-            "/src/assets/photo/house-of-hogwarts-1.webp",
-            "/src/assets/photo/my-headquater-welcom-to-hogwarts-1.webp",
-            "/src/assets/photo/gen-offer-1.webp",
-            "/src/assets/photo/gen-offer-3.webp",
-            "/src/assets/photo/gen-offer-4.webp"
+            "/photo/house-of-hogwarts-1.webp",
+            "/photo/my-headquater-welcom-to-hogwarts-1.webp",
+            "/photo/gen-offer-1.webp",
+            "/photo/gen-offer-3.webp",
+            "/photo/gen-offer-4.webp"
           ]
         },
         {
@@ -451,14 +451,14 @@
           "category": "Video editing",
           "tagline": "Fast-Paced Motion Graphics & Kinetic Typography",
           "description": "High-energy video promos, hook-optimized short-form edits, and kinetic typography engineered for maximum retention across Reels & TikTok.",
-          "image": "/src/assets/photo/dj-draggy.webp",
-          "thumb": "/src/assets/photo/dj-draggy-thumb.webp",
+          "image": "/photo/dj-draggy.webp",
+          "thumb": "/photo/dj-draggy-thumb.webp",
           "tags": ["Hook Optimization", "Kinetic Typography", "Motion Graphics"],
           "galleryImages": [
-            "/src/assets/photo/dj-draggy.webp",
-            "/src/assets/photo/dj-rd-babas.webp",
-            "/src/assets/photo/my-headquater-draggy-j.webp",
-            "/src/assets/photo/my-headquater-rawhul.webp"
+            "/photo/dj-draggy.webp",
+            "/photo/dj-rd-babas.webp",
+            "/photo/my-headquater-draggy-j.webp",
+            "/photo/my-headquater-rawhul.webp"
           ]
         },
         {
@@ -467,15 +467,15 @@
           "category": "Video editing",
           "tagline": "Concert Teasers & Performance Highlight Reels",
           "description": "Cinematic live concert editing, beat-matched transitions, and acoustic video showcases for celebrated indie and Sufi artists.",
-          "image": "/src/assets/photo/kaash-band.webp",
-          "thumb": "/src/assets/photo/kaash-band-thumb.webp",
+          "image": "/photo/kaash-band.webp",
+          "thumb": "/photo/kaash-band-thumb.webp",
           "tags": ["Concert Highlights", "Sound Design", "Artist Spotlight"],
           "galleryImages": [
-            "/src/assets/photo/kaash-band.webp",
-            "/src/assets/photo/musafir-band-31-oct.webp",
-            "/src/assets/photo/garvit-live.webp",
-            "/src/assets/photo/gajendra.webp",
-            "/src/assets/photo/manvender.webp"
+            "/photo/kaash-band.webp",
+            "/photo/musafir-band-31-oct.webp",
+            "/photo/garvit-live.webp",
+            "/photo/gajendra.webp",
+            "/photo/manvender.webp"
           ]
         },
         {
@@ -484,15 +484,15 @@
           "category": "Video editing",
           "tagline": "Viral Holiday Event Promos & Recaps",
           "description": "High-hook festival event video sequences, dynamic pacing, and crowd-hype edits driving ticket sales and viral organic reach.",
-          "image": "/src/assets/photo/bolly-punjabi-night-15-aug.webp",
-          "thumb": "/src/assets/photo/bolly-punjabi-night-15-aug-thumb.webp",
+          "image": "/photo/bolly-punjabi-night-15-aug.webp",
+          "thumb": "/photo/bolly-punjabi-night-15-aug-thumb.webp",
           "tags": ["Event Promos", "Viral Pacing", "Festival Edits"],
           "galleryImages": [
-            "/src/assets/photo/bolly-punjabi-night-15-aug.webp",
-            "/src/assets/photo/bolly-punjabi8-aug.webp",
-            "/src/assets/photo/bollywood-night-07-aug.webp",
-            "/src/assets/photo/retro-night-2-june.webp",
-            "/src/assets/photo/retro-night-my-bar-2.webp"
+            "/photo/bolly-punjabi-night-15-aug.webp",
+            "/photo/bolly-punjabi8-aug.webp",
+            "/photo/bollywood-night-07-aug.webp",
+            "/photo/retro-night-2-june.webp",
+            "/photo/retro-night-my-bar-2.webp"
           ]
         },
         {
@@ -501,14 +501,14 @@
           "category": "Website Development",
           "tagline": "Modern Responsive Resort Web Experience",
           "description": "Mobile-first resort web platform featuring immersive room galleries, local attraction itineraries, and direct inquiry booking flows.",
-          "image": "/src/assets/photo/hotel-journee-4.webp",
-          "thumb": "/src/assets/photo/hotel-journee-4-thumb.webp",
+          "image": "/photo/hotel-journee-4.webp",
+          "thumb": "/photo/hotel-journee-4-thumb.webp",
           "tags": ["Resort Portal", "Mobile-First UX", "Direct Bookings"],
           "galleryImages": [
-            "/src/assets/photo/hotel-journee-4.webp",
-            "/src/assets/photo/hotel-journee-location-post.webp",
-            "/src/assets/photo/hotel-journee-mussoorie-post.webp",
-            "/src/assets/photo/hotel-journee-png.webp"
+            "/photo/hotel-journee-4.webp",
+            "/photo/hotel-journee-location-post.webp",
+            "/photo/hotel-journee-mussoorie-post.webp",
+            "/photo/hotel-journee-png.webp"
           ]
         },
         {
@@ -517,13 +517,13 @@
           "category": "Website Development",
           "tagline": "High-Converting Pre-Launch Property Site",
           "description": "Coming-soon web teaser page featuring scenic mountain photography, VIP preview registrations, and interactive amenity previews.",
-          "image": "/src/assets/photo/hotel-nest-creative-ad.webp",
-          "thumb": "/src/assets/photo/hotel-nest-creative-ad-thumb.webp",
+          "image": "/photo/hotel-nest-creative-ad.webp",
+          "thumb": "/photo/hotel-nest-creative-ad-thumb.webp",
           "tags": ["Launch Site", "Lead Capture", "Fast Performance"],
           "galleryImages": [
-            "/src/assets/photo/hotel-nest-creative-ad.webp",
-            "/src/assets/photo/hotel-nest-coming-soon.webp",
-            "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+            "/photo/hotel-nest-creative-ad.webp",
+            "/photo/hotel-nest-coming-soon.webp",
+            "/photo/hotel-nest-mountain-view-text.webp"
           ]
         },
         {
@@ -532,13 +532,13 @@
           "category": "Website Development",
           "tagline": "Interactive Property Platform & Virtual Tour UI",
           "description": "High-end corporate website engineered for ultra-luxury residential towers, incorporating floor-plan viewers and buyer lead pipelines.",
-          "image": "/src/assets/photo/avenue-real-estate-4.webp",
-          "thumb": "/src/assets/photo/avenue-real-estate-4-thumb.webp",
+          "image": "/photo/avenue-real-estate-4.webp",
+          "thumb": "/photo/avenue-real-estate-4-thumb.webp",
           "tags": ["Real Estate Portal", "Lead Architecture", "Clean UI"],
           "galleryImages": [
-            "/src/assets/photo/avenue-real-estate-4.webp",
-            "/src/assets/photo/avenue-real-estate-13.webp",
-            "/src/assets/photo/avenue-real-estate-10.webp"
+            "/photo/avenue-real-estate-4.webp",
+            "/photo/avenue-real-estate-13.webp",
+            "/photo/avenue-real-estate-10.webp"
           ]
         },
         {
@@ -547,12 +547,12 @@
           "category": "SEO & Digital Content Strategist",
           "tagline": "Organic Authority & Hill-Station Keyword Capture",
           "description": "Comprehensive technical and on-page SEO roadmap capturing high-intent traveler searches, optimizing Google Maps, and driving organic stays.",
-          "image": "/src/assets/photo/hotel-journee-location-post.webp",
-          "thumb": "/src/assets/photo/hotel-journee-location-post-thumb.webp",
+          "image": "/photo/hotel-journee-location-post.webp",
+          "thumb": "/photo/hotel-journee-location-post-thumb.webp",
           "tags": ["Local SEO", "Keyword Strategy", "Organic Authority"],
           "galleryImages": [
-            "/src/assets/photo/hotel-journee-location-post.webp",
-            "/src/assets/photo/hotel-journee-mussoorie-post.webp"
+            "/photo/hotel-journee-location-post.webp",
+            "/photo/hotel-journee-mussoorie-post.webp"
           ]
         },
         {
@@ -561,12 +561,12 @@
           "category": "SEO & Digital Content Strategist",
           "tagline": "Data-Backed Social Calendars & Campaign Roadmaps",
           "description": "Formulated monthly content calendars, keyword-optimized social captions, and target-audience hashtag research maximizing engagement.",
-          "image": "/src/assets/photo/my-bar-headquater-4.webp",
-          "thumb": "/src/assets/photo/my-bar-headquater-4-thumb.webp",
+          "image": "/photo/my-bar-headquater-4.webp",
+          "thumb": "/photo/my-bar-headquater-4-thumb.webp",
           "tags": ["Content Calendar", "Trend Optimization", "Engagement"],
           "galleryImages": [
-            "/src/assets/photo/my-bar-headquater-4.webp",
-            "/src/assets/photo/my-bar-weekly-offer-3.webp"
+            "/photo/my-bar-headquater-4.webp",
+            "/photo/my-bar-weekly-offer-3.webp"
           ]
         },
         {
@@ -575,13 +575,13 @@
           "category": "SEO & Digital Content Strategist",
           "tagline": "High-Intent Buyer Acquisition & Content Formulation",
           "description": "Targeted search campaigns, Google Ads architecture, and conversion copywriting delivering qualified HNWI leads for luxury apartments.",
-          "image": "/src/assets/photo/avenue-real-estate-7.webp",
-          "thumb": "/src/assets/photo/avenue-real-estate-7-thumb.webp",
+          "image": "/photo/avenue-real-estate-7.webp",
+          "thumb": "/photo/avenue-real-estate-7-thumb.webp",
           "tags": ["Acquisition Strategy", "Buyer Intent", "Digital Roadmap"],
           "galleryImages": [
-            "/src/assets/photo/avenue-real-estate-7.webp",
-            "/src/assets/photo/avenue-real-estate-19.webp",
-            "/src/assets/photo/avenue-real-estate-10.webp"
+            "/photo/avenue-real-estate-7.webp",
+            "/photo/avenue-real-estate-19.webp",
+            "/photo/avenue-real-estate-10.webp"
           ]
         },
         {
@@ -590,13 +590,13 @@
           "category": "Social Media Marketing",
           "tagline": "Organic Social Engagement & Performance Creative",
           "description": "High-impact social posts, viral weekend campaign creatives, and audience-hooking promotional assets maximizing engagement and attendance.",
-          "image": "/src/assets/photo/copacabana-post.webp",
-          "thumb": "/src/assets/photo/copacabana-post-thumb.webp",
+          "image": "/photo/copacabana-post.webp",
+          "thumb": "/photo/copacabana-post-thumb.webp",
           "tags": ["Social Media", "Paid Ads", "Audience Engagement"],
           "galleryImages": [
-            "/src/assets/photo/copacabana-post.webp",
-            "/src/assets/photo/my-bar-headquater-4.webp",
-            "/src/assets/photo/my-bar-weekly-offer-3.webp"
+            "/photo/copacabana-post.webp",
+            "/photo/my-bar-headquater-4.webp",
+            "/photo/my-bar-weekly-offer-3.webp"
           ]
         },
         {
@@ -605,14 +605,14 @@
           "category": "Social Media Marketing",
           "tagline": "Themed Nightlife Social Strategy & Community Building",
           "description": "Recurring social post calendar, special theme night announcements, and targeted social ad campaigns generating consistent brand buzz.",
-          "image": "/src/assets/photo/my-bar-ladies-night-22nd-july.webp",
-          "thumb": "/src/assets/photo/my-bar-ladies-night-22nd-july-thumb.webp",
+          "image": "/photo/my-bar-ladies-night-22nd-july.webp",
+          "thumb": "/photo/my-bar-ladies-night-22nd-july-thumb.webp",
           "tags": ["Weekly Campaigns", "Event Social", "Creative Storytelling"],
           "galleryImages": [
-            "/src/assets/photo/my-bar-ladies-night-22nd-july.webp",
-            "/src/assets/photo/my-bar-kitty-party.webp",
-            "/src/assets/photo/insta-post-2.webp",
-            "/src/assets/photo/valentine-post-3.webp"
+            "/photo/my-bar-ladies-night-22nd-july.webp",
+            "/photo/my-bar-kitty-party.webp",
+            "/photo/insta-post-2.webp",
+            "/photo/valentine-post-3.webp"
           ]
         },
         {
@@ -621,14 +621,14 @@
           "category": "Social Media Marketing",
           "tagline": "Viral Food Creatives & Student Discount Promotions",
           "description": "Dynamic social media graphics, student offer campaigns, and enticing food photography carousels driving viral shares and walk-in diners.",
-          "image": "/src/assets/photo/food-post.webp",
-          "thumb": "/src/assets/photo/food-post-thumb.webp",
+          "image": "/photo/food-post.webp",
+          "thumb": "/photo/food-post-thumb.webp",
           "tags": ["Viral Food Posts", "Social Offers", "Impulse Orders"],
           "galleryImages": [
-            "/src/assets/photo/food-post.webp",
-            "/src/assets/photo/indiano-student-offer.webp",
-            "/src/assets/photo/friday-offer-neelansh.webp",
-            "/src/assets/photo/d-milano-imfl-offer.webp"
+            "/photo/food-post.webp",
+            "/photo/indiano-student-offer.webp",
+            "/photo/friday-offer-neelansh.webp",
+            "/photo/d-milano-imfl-offer.webp"
           ]
         }
       ]
@@ -637,13 +637,13 @@
       "seo": {
         "title": "Get In Touch | Coherence Visual",
         "description": "Connect with Coherence Visual digital marketing agency. Let's make something big together.",
-        "ogImage": "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+        "ogImage": "/photo/hotel-nest-mountain-view-text.webp"
       },
       "hero": {
         "badge": "Start A Conversation",
         "title": "LET'S MAKE SOMETHING BIG TOGETHER",
         "subtitle": "Whether you're a startup looking to make an impact or an established brand seeking a fresh perspective, Coherence Visual is your partner in success.",
-        "bgImage": "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+        "bgImage": "/photo/hotel-nest-mountain-view-text.webp"
       },
       "contactInfo": {
         "headline": "Ready to Innovate Your Digital Landscape?",
@@ -667,13 +667,13 @@
       "seo": {
         "title": "Work With Us | Careers & Culture at Coherence Visual",
         "description": "Join the Coherence Visual team. We are storytellers, innovators, and digital strategists committed to elevating brands.",
-        "ogImage": "/src/assets/photo/avenue-real-estate-10.webp"
+        "ogImage": "/photo/avenue-real-estate-10.webp"
       },
       "hero": {
         "badge": "Careers & Collaboration",
         "title": "WORK WITH US",
         "subtitle": "Success is not about greatness, it's about consistency. Consistent hard work leads to success. Greatness will come.",
-        "bgImage": "/src/assets/photo/avenue-real-estate-10.webp"
+        "bgImage": "/photo/avenue-real-estate-10.webp"
       },
       "culture": {
         "title": "Life at Coherence Visual",

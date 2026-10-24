@@ -7,7 +7,7 @@ export default function ParallaxCta({
   subtitle = "We passionately create intelligent and immersive digital experiences with fresh and innovative ideas.",
   buttonText = "Start Your Project",
   buttonLink = "/get-in-touch",
-  bgImage = "/src/assets/photo/hotel-nest-mountain-view-text.webp"
+  bgImage = "/photo/hotel-nest-mountain-view-text.webp"
 }) {
   return (
     <section

@@ -206,7 +206,7 @@ export default function OurServices() {
         subtitle="Our approach combines user, business and stakeholder requirements to drive measurable ROI."
         buttonText="Get In Touch"
         buttonLink="/get-in-touch"
-        bgImage="/src/assets/photo/avenue-real-estate-4.webp"
+        bgImage="/photo/avenue-real-estate-4.webp"
       />
     </main>
   );

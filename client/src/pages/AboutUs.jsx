@@ -233,7 +233,7 @@ export default function AboutUs() {
         subtitle="Whether you're a startup looking to make an impact or an established brand seeking a fresh perspective, Coherence Visual LLP is your partner in success."
         buttonText="Get In Touch"
         buttonLink="/get-in-touch"
-        bgImage="/src/assets/photo/hotel-journee-location-post.webp"
+        bgImage="/photo/hotel-journee-location-post.webp"
       />
     </main>
   );

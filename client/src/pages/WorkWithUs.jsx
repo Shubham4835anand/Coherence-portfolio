@@ -209,7 +209,7 @@ export default function WorkWithUs() {
         subtitle="We are always looking for passionate creators, editors, and strategists. Reach out directly with your portfolio."
         buttonText="Get In Touch"
         buttonLink="/get-in-touch"
-        bgImage="/src/assets/photo/avenue-real-estate-10.webp"
+        bgImage="/photo/avenue-real-estate-10.webp"
       />
     </main>
   );

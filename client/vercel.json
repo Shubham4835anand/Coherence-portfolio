@@ -5,6 +5,10 @@
             "destination": "https://coherence-portfolio-a6qn.vercel.app/api/$1"
         },
         {
+            "source": "/src/assets/photo/(.*)",
+            "destination": "/photo/$1"
+        },
+        {
             "source": "/(.*)",
             "destination": "/index.html"
         }
