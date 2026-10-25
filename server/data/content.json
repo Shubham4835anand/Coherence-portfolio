@@ -273,6 +273,18 @@
               "Conversion Copywriting & Storytelling",
               "Social Media Brand Management"
             ]
+          },
+          {
+            "name": "Shubham Anand",
+            "role": "FULL STACK WEB DEVELOPER",
+            "credentials": "BTech Graduate | 2 yrs exp",
+            "quote": "Turning business ideas into scalable, high-performing web products. Shubham builds full stack applications with strong engineering fundamentals, delivering AI-powered, production-ready solutions.",
+            "competencies": [
+              "React.js, Next.js & Modern Frontend Development",
+              "Node.js, TypeScript & REST API Design",
+              "MongoDB, Oracle APEX & Database Design",
+              "AI/RAG-based Applications with Azure OpenAI"
+            ]
           }
         ]
       },
